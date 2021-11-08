@@ -1,0 +1,1 @@
+SELECT page_title FROM page WHERE page_namespace = 0 AND page_is_redirect = 0 AND page_id NOT IN (SELECT tl_from FROM templatelinks WHERE tl_title = 'ابهام‌زدایی' AND tl_namespace = 10) ORDER BY page_len ASC LIMIT 1500;

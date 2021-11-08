@@ -1,0 +1,2535 @@
+  <page>
+    <title>Template:2015 WWE Network events</title>
+    <ns>10</ns>
+    <id>44069890</id>
+    <revision>
+      <id>822281622</id>
+      <parentid>813710951</parentid>
+      <timestamp>2018-01-25T13:35:18Z</timestamp>
+      <contributor>
+        <username>Galatz</username>
+        <id>9790879</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="730">{{WWE Network events | year = 2015
+| 1  = Royal Rumble
+| 2  = Fastlane
+| 3U = WrestleMania 31
+| 4  = Extreme Rules
+| 5  = King of the Ring
+| 6  = Payback
+| 7  = Elimination Chamber
+| 8  = Money in the Bank
+| 9U = The Beast in the East
+| 10  = Battleground
+| 11  = SummerSlam
+| 12  = Night of Champions
+| 13U = WWE Live from Madison Square Garden{{!}}Live from Madison Square Garden
+| 14 = Hell in a Cell
+| 15 = Survivor Series
+| 16 = TLC: Tables, Ladders &amp; Chairs
+| NXT1 = Rival
+| NXT2 = Unstoppable
+| NXT3 = Brooklyn
+| NXT4 = Respect
+| NXT5 = London
+}}
+&lt;noinclude&gt;{{collapsible option}}[[Category:WWE pay-per-view navigational boxes]]&lt;br&gt;[[Category:WWE Network navigational boxes]][[Category:2015 WWE Network events]]&lt;/noinclude&gt;</text>
+      <sha1>nss8zguo5unl3z05npazvmqqx37uhfz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:BSicon quote</title>
+    <ns>10</ns>
+    <id>25784818</id>
+    <revision>
+      <id>669460684</id>
+      <parentid>661893177</parentid>
+      <timestamp>2015-07-01T10:02:53Z</timestamp>
+      <contributor>
+        <username>Jc86035</username>
+        <id>17245768</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="327">&lt;includeonly&gt;{{nowrap|[[File:BSicon {{{1|obsolete}}}.svg|{{#if:{{{3|}}}|{{{3}}}|x20}}px|border|&amp;nbsp;|class=noviewer]]{{#switch:{{{2}}}
+  | no | 0 =
+  | #default = &amp;nbsp;(&lt;code style=&quot;color:blue&quot;&gt;'''{{#if:{{{alt|}}}|{{{alt}}}|{{{1|icon name undefined}}}}}'''&lt;/code&gt;)
+}}}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>7b30q161fp98pi8eonajrthgsm03dgu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Campaignbox Arab–Byzantine Wars</title>
+    <ns>10</ns>
+    <id>4025485</id>
+    <revision>
+      <id>829405939</id>
+      <parentid>828728572</parentid>
+      <timestamp>2018-03-08T12:55:02Z</timestamp>
+      <contributor>
+        <username>NinjaRobotPirate</username>
+        <id>3742946</id>
+      </contributor>
+      <minor/>
+      <comment>mass rollback of sock edits</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4198">{{Campaignbox
+| name = Campaignbox Arab–Byzantine Wars
+| title = [[Arab–Byzantine wars]]
+| listclass = hlist
+| state = collapsed
+| battles =
+'''Early conflicts'''
+* [[Battle of Mu'tah|Mu'tah]]
+* [[Battle of Dathin|Dathin]]
+* [[Battle of Firaz|Firaz]]
+
+'''[[Muslim conquest of the Levant]]'''
+* [[Battle of al-Qaryatayn|al-Qaryatayn]]
+* [[Battle of Bosra|Bosra]]
+* [[Battle of Ajnadayn|Ajnadayn]]
+* [[Battle of Marj Rahit (634)|Marj Rahit]]
+* [[Battle of Fahl|Fahl]]
+* [[Siege of Damascus (634)|Damascus]]
+* [[Battle of Maraj-al-Debaj|Maraj-al-Debaj]]
+* [[Siege of Emesa|Emesa]]
+* [[Battle of Yarmouk|Yarmouk]]
+* [[Siege of Jerusalem (637)|Jerusalem]]
+* [[Battle of Hazir|Hazir]]
+* [[Siege of Aleppo (637)|Aleppo]]
+* [[Battle of the Iron Bridge|Iron Bridge]]
+* [[Siege of Germanicia|Germanicia]]
+
+'''[[Muslim conquest of Egypt]]'''
+* [[Battle of Heliopolis|Heliopolis]]
+* [[Siege of Babylon Fortress|Babylon Fortress]]
+* [[Siege of Alexandria (641)|Alexandria]]
+* [[Battle of Nikiou|Nikiou]]
+
+'''[[Muslim conquest of the Maghreb|Muslim conquest of North Africa]]'''
+* [[Battle of Sufetula|Sufetula]]
+* [[Battle of Vescera|Vescera]]
+* [[Battle of Mamma|Mamma]]
+* [[Battle of Carthage (698)|Carthage]]
+
+'''[[Umayyad]] invasions of [[Anatolia]]&lt;br /&gt; and [[Constantinople]]'''
+* [[Siege of Constantinople (674–678)|1st Constantinople]]
+* [[Battle of Sebastopolis|Sebastopolis]]
+* [[Siege of Tyana|Tyana]]
+* [[Siege of Constantinople (717–718)|2nd Constantinople]]
+* [[Siege of Nicaea (727)|Nicaea]]
+* [[Battle of Akroinon|Akroinon]]
+
+'''Arab–Byzantine border warfare'''
+* [[Siege of Kamacha|Kamacha]]
+* [[Abbasid invasion of Asia Minor (782)|Abbasid invasion of 782]]
+* [[Battle of Kopidnadon|Kopidnadon]]
+* [[Battle of Krasos|Krasos]]
+* [[Abbasid invasion of Asia Minor (806)|Abbasid invasion of 806]]
+* [[Battle of Anzen|Anzen]] and [[sack of Amorium|Amorium]]
+* [[Battle of Mauropotamos|Mauropotamos]]
+* [[Capture of Faruriyyah|Faruriyyah]]
+* [[Battle of Lalakaon|Lalakaon]]
+* [[Battle of Bathys Ryax|Bathys Ryax]]
+
+'''[[Muslim conquest of Sicily|Sicily]] and [[History of Islam in southern Italy|Southern Italy]]'''
+* [[Siege of Syracuse (827–828)|1st Syracuse]]
+* [[Siege of Syracuse (868)|2nd Syracuse]]
+* [[Siege of Melite (870)|1st Malta]]
+* [[Siege of Syracuse (877–878)|3rd Syracuse]]
+* [[Battle of Caltavuturo|Caltavuturo]]
+* Campaigns of [[Leo Apostyppes]] and [[Nikephoros Phokas the Elder]]
+* [[Battle of Stelai|Stelai (1st Milazzo)]]
+* [[Battle of Milazzo (888)|(2nd) Milazzo]]
+* [[Siege of Taormina (902)|1st Taormina]]
+* [[Battle of Garigliano|Garigliano]]
+* Campaigns of [[Marianos Argyros]]
+* [[Siege of Taormina (962)|2nd Taormina]]
+* [[Siege of Rometta|Rometta]]
+* [[Battle of the Straits|Straits of Messina]]
+* [[George Maniakes|George Maniakes in Sicily]]
+* [[Siege of Medina (1053–54)|2nd Malta]]
+
+'''Naval warfare and raids'''
+* [[Battle of the Masts|Phoenix]]
+* [[Battle of Keramaia|Keramaia]]
+* [[Emirate of Crete#Conquest of Crete|Muslim conquest of Crete]]
+* [[Battle of Thasos|Thasos]]
+* [[Sack of Damietta (853)|Damietta]]
+* [[Siege of Ragusa (866–868)|Ragusa]]
+* [[Battle of Kardia|Kardia]]
+* [[Battle of the Gulf of Corinth|Gulf of Corinth]]
+* [[Battle of Cephalonia|Cephalonia]]
+* [[Siege of Euripos|Euripos]]
+* [[Sack of Thessalonica (904)|Thessalonica]]
+
+'''Byzantine Reconquest'''
+* Campaigns of [[John Kourkouas]]
+* Campaigns of [[Sayf al-Dawla]]
+** [[Battle of Marash (953)|Marash]]
+** [[Battle of Raban|Raban]]
+** [[Battle of Andrassos|Andrassos]]
+* Campaigns of [[Nikephoros II Phokas|Nikephoros Phokas]]
+** [[Siege of Chandax|Crete]]
+** [[Byzantine conquest of Cilicia|Cilicia]]
+** [[Siege of Antioch (968–969)|Antioch]]
+* [[Battle of Alexandretta|Alexandretta]]
+* Campaigns of [[John I Tzimiskes|John Tzimiskes]]
+** [[Syrian campaigns of John Tzimiskes|Syria]]
+* [[Battle of the Orontes|Orontes]]
+* [[Battle of Apamea|Apamea]]
+* Campaigns of [[Basil II]]
+* [[Battle of Azaz (1030)|Azaz]]
+}}
+&lt;noinclude&gt;
+
+[[Category:Muslim conquest campaignbox templates|Byzantine-Arab]]
+[[Category:Byzantine Empire campaignbox templates|Arab]]
+[[Category:Arab–Byzantine wars|τ]]
+[[Category:Middle East war and conflict navigational boxes]]
+
+&lt;/noinclude&gt;</text>
+      <sha1>5lb8eyg7hdpu32is6a9mpct8gcoy52e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Campaignbox Second Chechen War (guerrilla phase)</title>
+    <ns>10</ns>
+    <id>10616902</id>
+    <revision>
+      <id>745548155</id>
+      <parentid>554888587</parentid>
+      <timestamp>2016-10-21T19:47:04Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1787">{{Campaignbox
+|name = Campaignbox Second Chechen War (guerrilla phase)
+|title = &lt;div style=&quot;padding:0.2em 0; line-height:1.2em;&quot;&gt;[[Second Chechen War]]&lt;div style=&quot;font-size:90%; font-weight:normal;&quot;&gt;(guerrilla phase)&lt;/div&gt;&lt;/div&gt;
+|listclass = hlist
+|battles  = 
+* '''[[Guerrilla phase of the Second Chechen War|Insurgency since May 2000]]'''
+
+* [[Galashki ambush|Galashki]]
+* [[June 2000 Chechnya suicide bombings|1st suicide bombings]]
+* [[July 2000 Chechnya suicide bombings|2nd suicide bombings]]
+* [[Alkhan-Kala operation|Alkhan-Kala]]
+* [[Battle for Vedeno (2001)|Vedeno]]
+* [[2001 Grozny Mi-8 crash|1st Grozny crash]]
+* [[Tsotsin-Yurt operation|Tsotsin-Yurt]]
+* [[2002 Shelkovskaya Mi-8 crash|Shelkovskaya crash]]
+* [[2002 Grozny OMON ambush|2nd Grozny]]
+* [[2002 Khankala Mi-26 crash|Khankala crash]]
+* [[2002 Grozny truck bombing|Grozny truck bomb]]
+* [[2003 Znamenskoye suicide bombing|Znamenskoye suicide bombing]]
+* [[2004 Nazran raid|Nazran]]
+* [[2004 Avtury raid|1st Avtury]]
+* [[2004 Grozny raid|4th Grozny]]
+* [[January 15 2005 sieges in Dagestan|Dagestan sieges]]
+* [[Borozdinovskaya operation|Borozdinovskaya]] 
+* [[Makhachkala Rus bombing|Makhachkala bombing]]
+* [[2005 Nalchik raid|Nalchik]]
+* [[Gimry fighting|Gimry]]
+* [[2006 Avtury ambush|2nd Avtury]]
+* [[2006 Vladikavkaz Mi-8 crash|Vladikavkaz crash]]
+* [[Ingush-Chechen fratricide incident|Border incident]]
+* [[2007 Shatoy Mi-8 crash|Shatoy crash]]
+* [[2007 Zhani-Vedeno ambush|Zhani-Vedeno]]
+
+}}&lt;noinclude&gt;
+See also:
+*[[Template:Campaignbox Russia terrorism]] (1994–present)
+*[[Template:Campaignbox First Chechen War]] (1994–1996)
+*[[Template:Campaignbox Second Chechen War]] (1999–2000)
+
+[[Category:Chechnya campaignbox templates]]
+
+[[Category:Russia and Soviet Union campaignbox templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>im06kt8a45qei6601kk2vrjbg3axpb2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Convert/documentation navbox</title>
+    <ns>10</ns>
+    <id>44459427</id>
+    <revision>
+      <id>830038666</id>
+      <parentid>758457667</parentid>
+      <timestamp>2018-03-12T10:48:29Z</timestamp>
+      <contributor>
+        <username>DePiep</username>
+        <id>199625</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2335">{{Navbox
+ | name      = Convert/documentation navbox
+ | title     = &lt;nowiki&gt;{{Convert}}&lt;/nowiki&gt; help, documentation and maintenance
+ | state     = {{{state|autcollapse}}}
+ | bodyclass = hlist
+
+ | titlestyle = background: #cef2e0; &lt;!-- documentation green --&gt;
+ | basestyle  = background: #ddffee; &lt;!-- derived from doc green --&gt;
+
+ | above =
+* [[template:Convert]]
+* [[template talk:Convert|talk:Convert]]
+* [[module:Convert]]
+* {{tl|Cvt}}
+
+ | group1 = Help
+ |  list1 =
+* [[Help:Convert]]
+* [[Help:Convert units]]
+* [[Help:Convert messages]]
+
+ | group2 = Documentation
+ |  list2 =
+* [[Template:Convert/doc]]
+** [[:Template:Convert/doc/parameter list|parameter list]]
+** [[:Template:Convert/doc/deprecations list|deprecations list]]
+** [[:Template:Convert/doc/range separator list|range separator list]]
+* [[Special:PrefixIndex/Template:Convert/doc|All /doc pages]]
+
+ | group3 = Units
+ |  list3 =
+* [[Template:Convert/list of units|List of units]] (abriged)
+* [[Module:Convert/documentation/conversion data/doc|Full list of units]]
+&lt;!--* [[Module:Convert/documentation/conversion data introduction/doc|Master list]] --&gt;
+** [[Template:Convert/list of units/area|area]]
+** [[Template:Convert/list of units/energy|energy]]
+** [[Template:Convert/list of units/force|force]]
+** flow
+** [[Template:Convert/list of units/length|length]]
+** [[Template:Convert/list of units/mass|mass]]
+** [[Template:Convert/list of units/speed|speed]]
+** [[Template:Convert/list of units/temperature|temperature]]
+** [[Template:Convert/list of units/torque|torque]]
+** [[Template:Convert/list of units/volume|volume]]
+* [[List of unusual units of measurement|Unusual units (likely not in {{tlf|Convert}})]]
+
+ | group4 = Error tracking
+ |  list4 = [[:Category:Convert errors]]
+
+ | group5 = Modules
+ |  list5 =
+* [[Module:Convert]]
+** [[module:convert/data|/data]]
+** [[module:convert/extra|/extra]]
+** [[module:convert/text|/text]]
+* [[Special:PrefixIndex/Module:Convert|All]]
+
+ | group6 = See also
+ |  list6 = [[Module:Convert/helper]] (preprocess height input)
+
+ | group7 = Related
+ |  list7 =
+* [[MOS:NUMERAL|MOS:Numeric]]
+* [[MOS:UNITS|MOS:Units of measurement]]
+* [[Module:ConvertNumeric]]
+* [[:Category:Convert-like templates]]
+}}&lt;noinclude&gt;
+{{documentation | content =
+
+{{collapsible option}}
+
+[[Category:Documentation see also templates]]
+}}
+&lt;/noinclude&gt;</text>
+      <sha1>ei6gh3xbiwzz3vet5cb9q0q25239og2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Country data Kingdom of Albania</title>
+    <ns>10</ns>
+    <id>39300982</id>
+    <revision>
+      <id>745715068</id>
+      <parentid>617461998</parentid>
+      <timestamp>2016-10-22T21:32:05Z</timestamp>
+      <contributor>
+        <username>Hugopako</username>
+        <id>17885746</id>
+      </contributor>
+      <comment>avoid redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="270">{{ {{{1&lt;noinclude&gt;|country showdata&lt;/noinclude&gt;}}}
+| alias = Albanian Kingdom (1928–39)
+| shortname alias = Kingdom of Albania
+| flag alias = Flag Kingdom Of Albania.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+&lt;noinclude&gt;
+| cat = Albania kingdom 1928
+&lt;/noinclude&gt;
+}}</text>
+      <sha1>3it8qenkigc5pd8uwerzq6qluejagdl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Country data Palestine Liberation Organization</title>
+    <ns>10</ns>
+    <id>44117938</id>
+    <revision>
+      <id>630957233</id>
+      <parentid>630957044</parentid>
+      <timestamp>2014-10-24T17:33:35Z</timestamp>
+      <contributor>
+        <username>Andrwsc</username>
+        <id>898126</id>
+      </contributor>
+      <comment>repair after rename</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="360">{{ {{{1&lt;noinclude&gt;|country showdata&lt;/noinclude&gt;}}}
+| alias = Palestine Liberation Organization
+| shortname alias = PLO
+| flag alias = Flag of Palestine - short triangle.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+&lt;noinclude&gt;
+| redir1 = PLO
+| related1 = Palestinian National Authority
+| related2 = State of Palestine
+| related3 = All-Palestine
+&lt;/noinclude&gt;
+}}</text>
+      <sha1>0qi807ezjaskz4i9a2gcs881c0jz4ef</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Country data Republic of Cuba (1902–1959)</title>
+    <ns>10</ns>
+    <id>52500230</id>
+    <revision>
+      <id>824742842</id>
+      <parentid>824742527</parentid>
+      <timestamp>2018-02-09T05:36:47Z</timestamp>
+      <contributor>
+        <username>Illegitimate Barrister</username>
+        <id>12006778</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="449">{{ {{{1&lt;noinclude&gt;|country showdata&lt;/noinclude&gt;}}}
+| alias = Republic of Cuba (1902–1959)
+| shortname alias = Cuba
+| flag alias = Flag of Cuba.svg
+| link alias-naval = Cuban Navy
+| flag alias-1803 = Flag of Cuba sky blue.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant= {{{variant|}}}
+&lt;noinclude&gt;
+| var1 = 1803
+| redir1 = CBA
+| redir2 = Republic of Cuba
+| related1 = Cuba
+&lt;/noinclude&gt;
+}}</text>
+      <sha1>3ud63q2opqe0lt6t8fdpqor8pozhgfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data BankGiroLoterij</title>
+    <ns>10</ns>
+    <id>32833998</id>
+    <revision>
+      <id>764857842</id>
+      <parentid>697934601</parentid>
+      <timestamp>2017-02-11T09:44:35Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <minor/>
+      <comment>Cs-wolves moved page [[Template:Cycling data BCT2]] to [[Template:Cycling data BankGiroLoterij]]: Better name.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="413">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = BankGiroLoterij
+| team name = BankGiroLoterij
+| team name-2000 = BankGiroLoterij–Batavus
+| team name-2001 = BankGiroLoterij–Batavus
+| team name-2002 = BankGiroLoterij–Batavus
+| team name-2003 = BankGiroLoterij–Batavus
+| team name-2004 = BankGiroLoterij
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>kogl05zyuyxpy9zg7p9vfkmjzi00303</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data COC</title>
+    <ns>10</ns>
+    <id>39686686</id>
+    <revision>
+      <id>820082265</id>
+      <parentid>820082209</parentid>
+      <timestamp>2018-01-12T23:53:41Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <minor/>
+      <comment>Cs-wolves moved page [[Template:Cycling data BEC]] to [[Template:Cycling data COC]]: New UCI code.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="763">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Corendon–Circus
+| team name = Corendon–Circus
+| team name-2005 = Palmans–Sapim–Collstrop
+| team name-2006 = Palmans–Collstrop
+| team name-2007 = Palmans–Collstrop
+| team name-2008 = Palmans–Cras
+| team name-2009 = BKCP–Powerplus
+| team name-2010 = BKCP–Powerplus
+| team name-2011 = BKCP–Powerplus
+| team name-2012 = BKCP–Powerplus
+| team name-2013 = BKCP–Powerplus
+| team name-2014 = BKCP–Powerplus
+| team name-2015 = BKCP–Powerplus
+| team name-2016a = BKCP–Corendon
+| team name-2016b = Beobank–Corendon
+| team name-2017 = Beobank–Corendon
+| team name-2018 = Corendon–Circus
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>8ut07kq5j6eibkao5b02phdc8v4a9ss</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data CSR</title>
+    <ns>10</ns>
+    <id>49749233</id>
+    <revision>
+      <id>820287402</id>
+      <parentid>793080197</parentid>
+      <timestamp>2018-01-14T01:43:31Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <minor/>
+      <comment>Cs-wolves moved page [[Template:Cycling data LPR2]] to [[Template:Cycling data CSR]]: New UCI code.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="316">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Canyon–SRAM
+| team name = Canyon–SRAM
+| team name-2016 = Canyon–SRAM
+| team name-2017 = Canyon–SRAM
+| team name-2018 = Canyon–SRAM
+| year = {{{year|}}}
+| season = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>owhvtgfpnj26kro25x0lkaay3lppahu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data HBA</title>
+    <ns>10</ns>
+    <id>37498030</id>
+    <revision>
+      <id>822186087</id>
+      <parentid>814953578</parentid>
+      <timestamp>2018-01-24T22:13:23Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <comment>tl.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="604">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Hagens Berman Axeon
+| team name = Hagens Berman Axeon
+| team name-2009 = Trek–Livestrong
+| team name-2010 = Trek–Livestrong
+| team name-2011 = Trek–Livestrong
+| team name-2012 = Bontrager–Livestrong
+| team name-2013 = Bontrager Cycling Team
+| team name-2014 = Bissell Development Team
+| team name-2015 = Axeon Cycling Team
+| team name-2016 = Axeon–Hagens Berman
+| team name-2017 = Axeon–Hagens Berman
+| team name-2018 = Hagens Berman Axeon
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>lx6h727syq9d7ajdgrygibgf8br3qea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data KLC</title>
+    <ns>10</ns>
+    <id>40077867</id>
+    <revision>
+      <id>733311877</id>
+      <parentid>700594186</parentid>
+      <timestamp>2016-08-06T22:26:29Z</timestamp>
+      <contributor>
+        <username>Anthony Appleyard</username>
+        <id>119438</id>
+      </contributor>
+      <minor/>
+      <comment>Anthony Appleyard moved page [[Template:Cycling data ETI]] to [[Template:Cycling data KLC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="343">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Klein Constantia (cycling team)
+| team name = Klein Constantia
+| team name-2013 = Etixx–IHNed
+| team name-2014 = Etixx
+| team name-2015 = AWT–GreenWay
+| team name-2016 = Klein Constantia
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>a0sxeiozjnshgll5t91psvtg6u9j6gt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data MTS women</title>
+    <ns>10</ns>
+    <id>43505153</id>
+    <revision>
+      <id>821485228</id>
+      <parentid>820288707</parentid>
+      <timestamp>2018-01-20T19:44:17Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <minor/>
+      <comment>Cs-wolves moved page [[Template:Cycling data GEW2]] to [[Template:Cycling data MTS women]]: Code for dab.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="449">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Mitchelton–Scott (women's team)
+| team name = Mitchelton–Scott
+| team name-2012 = GreenEDGE–AIS
+| team name-2013 = Orica–AIS
+| team name-2014 = Orica–AIS
+| team name-2015 = Orica–AIS
+| team name-2016 = Orica–AIS
+| team name-2017 = Orica–Scott
+| team name-2018 = Mitchelton–Scott
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>q011h10ycd9qmsr4l5w0mtie7mt89dn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data PSV</title>
+    <ns>10</ns>
+    <id>42369895</id>
+    <revision>
+      <id>820093663</id>
+      <parentid>760265852</parentid>
+      <timestamp>2018-01-13T01:07:45Z</timestamp>
+      <contributor>
+        <username>Cs-wolves</username>
+        <id>513060</id>
+      </contributor>
+      <comment>2018.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="484">{{ {{{1&lt;noinclude&gt;
+|Template:Cycling showdata
+&lt;/noinclude&gt;}}}
+| team link = Pauwels Sauzen–Vastgoedservice
+| team name = Pauwels Sauzen–Vastgoedservice
+| team name-2014 = Vastgoedservice–Golden Palace
+| team name-2015 = Vastgoedservice–Golden Palace
+| team name-2016 = Crelan–Vastgoedservice
+| team name-2017 = Pauwels Sauzen–Vastgoedservice
+| team name-2018 = Pauwels Sauzen–Vastgoedservice
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>dqtzgb0w7om4ttxa4qp9dco15ofrpvg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data RLW</title>
+    <ns>10</ns>
+    <id>42737361</id>
+    <revision>
+      <id>819482867</id>
+      <parentid>753405238</parentid>
+      <timestamp>2018-01-09T16:35:14Z</timestamp>
+      <contributor>
+        <username>XyZAn</username>
+        <id>16033358</id>
+      </contributor>
+      <comment>update 2018 name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="480">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Rally Cycling (women's team)
+| team name = Rally Cycling
+| team name-2012 = Optum Pro Cycling
+| team name-2013 = Optum–Kelly Benefit Strategies
+| team name-2014 = Optum–Kelly Benefit Strategies
+| team name-2015 = Optum–KBS
+| team name-2016 = Rally Cycling
+| team name-2017 = Rally Cycling
+| team name-2018 = Rally Cycling
+| year = {{{year|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>fosxmb8fthiwhxmpoxf8g072pjwie07</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cycling data TLP</title>
+    <ns>10</ns>
+    <id>43505104</id>
+    <revision>
+      <id>821200868</id>
+      <parentid>752857100</parentid>
+      <timestamp>2018-01-19T00:29:13Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:Cycling data TLP]]&quot;: [[WP:SEMIPROT|semi-protection]] of high-usage templates to combat systematic vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed access] (indefinite))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="913">{{ {{{1&lt;noinclude&gt;|Template:Cycling showdata&lt;/noinclude&gt;}}}
+| team link = Team Sunweb (women's team)
+| team name = Team Sunweb
+| team name-2011 = Skil Koga
+| team name-2012a = Skil 1t4i
+| team name-2012b = Skil–Argos
+| team name-2013 = Argos–Shimano
+| team name-2014 = Giant–Shimano
+| team name-2015 = Team Liv–Plantur
+| team name-2016 = Team Liv–Plantur
+| team name-2017 = Team Sunweb
+| team name-2018 = Team Sunweb
+| team season-2011 = 2011 Skil Koga season
+| team season-2012a = 2012 Team Skil–Argos season
+| team season-2012b = 2012 Team Skil–Argos season
+| team season-2013 = 2013 Team Argos–Shimano season
+| team season-2014 = 2014 Team Giant–Shimano season
+| team season-2015 = 2015 Team Liv–Plantur season
+| team season-2016 =
+| team season-2017 =
+| team season-2018 =
+
+| year = {{{year|}}}
+| noseasonlink = {{{noseasonlink|}}}
+}}&lt;noinclude&gt;
+[[Category:Cycling team data]]
+&lt;/noinclude&gt;</text>
+      <sha1>jkpapcy0ynqo51cu5osx0lw1186b3dk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Element cell/index/pt-cell/format</title>
+    <ns>10</ns>
+    <id>43268894</id>
+    <revision>
+      <id>821201029</id>
+      <parentid>813207982</parentid>
+      <timestamp>2018-01-19T00:29:25Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:Element cell/index/pt-cell/format]]&quot;: [[WP:SEMIPROT|semi-protection]] of high-usage templates to combat systematic vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed a...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="966">title=&quot;{{ucfirst:{{{name|}}}}} - AQ:{{{aq|(no AQ entered)}}}&quot;&lt;!--
+
+ AQ color bar
+--&gt; style=&quot;font-size:85%; text-align:left; overflow:hidden; background:{{element color|{{{category|}}}}}; line-height: 150%; padding-left: 2px; border-top: 4px solid {{element color|aq-{{{aq|}}}}}&quot;&lt;!--
+
+ Symbol (main line)
+--&gt;| &lt;div style=&quot;float: left; clear: left; whitespace: nowrap;&quot;&gt;{{su|p=[[Isotopes_of_{{{name|}}}|iso]] |b={{{Z|0}}}}}'''&lt;span style=&quot;font-size: 120%;&quot;&gt;{{{wl|Xx}}}'''&lt;/span&gt;&lt;/div&gt;&lt;!--
+
+ Infobox line
+--&gt;&lt;div style=&quot;float: left; clear: left;line-height: 120%&quot;&gt;[[Template:Infobox_{{{name|}}}|ibox]]&amp;nbsp;{{edit|1=Template:Infobox {{{name|}}} |2={{sc|E}}}}&lt;/div&gt;&lt;!--
+
+ Isobox line
+--&gt;&lt;div style=&quot;line-height: 120%; clear: left;&quot;&gt;[[Template:Infobox_{{{name|}}}_isotopes|isobox]]&lt;/div&gt;
+&lt;!--
+
+ Wikidata line
+--&gt;&lt;div style=&quot;line-height: 120%; clear: left; overflow: hidden;&quot;&gt;[[d:{{{qid|}}}|{{small|1=d:{{{qid|}}}}}]]&lt;/div&gt;&lt;!--
+
+--&gt;&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>mywelc1etia5rgb70ffmnjwseawuynk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:FIDE</title>
+    <ns>10</ns>
+    <id>2441122</id>
+    <revision>
+      <id>819682229</id>
+      <parentid>780638179</parentid>
+      <timestamp>2018-01-10T18:59:02Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:FIDE]]&quot;: [[WP:SEMI|semi-protecting]] highly-visible templates in response to recent template-space vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed access] (indefini...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="405">[https://ratings.fide.com/card.phtml?event={{Trim|{{{id|{{{1|{{#property:P1440|[[Category:Fide template with no ID set]]}}}}}}}}}} {{{name|{{{2|{{PAGENAMEBASE}}}}}}}}] rating card at [[FIDE]]&lt;includeonly&gt;{{EditAtWikidata|pid=P1440|{{{id|{{{1|}}}}}}}}{{#if:{{{id|{{{1|}}}}}}|{{WikidataCheck|property=P1440|value={{{id|}}}{{{1|}}}|category=FIDE ID}}}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>d32zb7m8fmd62iq10aqrjje3riqvp7t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Fb round2 1998–1999 ACC FR</title>
+    <ns>10</ns>
+    <id>19949061</id>
+    <revision>
+      <id>719587700</id>
+      <parentid>719283180</parentid>
+      <timestamp>2016-05-10T16:06:33Z</timestamp>
+      <contributor>
+        <username>Izkala</username>
+        <id>23051379</id>
+      </contributor>
+      <comment>subst {{Unicode}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="175">[[Asian Club Championship 1998-99#First Round|{{#if:{{{dc|}}}|Asian Club Championship 1998-99&amp;#32;}}First Round]]&lt;!--
+--&gt;&lt;noinclude&gt;[[Category:Fb_round_templates]]&lt;/noinclude&gt;</text>
+      <sha1>pr6dj38bl77z806zq7zhjlgq1xe045p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Fb round2 1998–1999 ACWC FR</title>
+    <ns>10</ns>
+    <id>19949071</id>
+    <revision>
+      <id>719587119</id>
+      <parentid>719283166</parentid>
+      <timestamp>2016-05-10T16:02:46Z</timestamp>
+      <contributor>
+        <username>Izkala</username>
+        <id>23051379</id>
+      </contributor>
+      <comment>subst {{Unicode}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="165">[[Asian Cup Winners Cup 1999#First Round|{{#if:{{{dc|}}}|Asian Cup Winners Cup 1999&amp;#32;}}First Round]]&lt;!--
+--&gt;&lt;noinclude&gt;[[Category:Fb_round_templates]]&lt;/noinclude&gt;</text>
+      <sha1>8m5xfue8bjti290dac7s8wms6l4761y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Fb round2 2001–02 ACC FR</title>
+    <ns>10</ns>
+    <id>19854729</id>
+    <revision>
+      <id>719586743</id>
+      <parentid>719282905</parentid>
+      <timestamp>2016-05-10T16:00:22Z</timestamp>
+      <contributor>
+        <username>Izkala</username>
+        <id>23051379</id>
+      </contributor>
+      <comment>subst {{Unicode}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="175">[[Asian Club Championship 2001-02#First Round|{{#if:{{{dc|}}}|Asian Club Championship 2001-02&amp;#32;}}First Round]]&lt;!--
+--&gt;&lt;noinclude&gt;[[Category:Fb_round_templates]]&lt;/noinclude&gt;</text>
+      <sha1>01yvrvrfek7opzcif7zla1ym68y2dk2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Fb round2 2001–02 ACWC FR</title>
+    <ns>10</ns>
+    <id>19854702</id>
+    <revision>
+      <id>719587643</id>
+      <parentid>719282911</parentid>
+      <timestamp>2016-05-10T16:06:07Z</timestamp>
+      <contributor>
+        <username>Izkala</username>
+        <id>23051379</id>
+      </contributor>
+      <comment>subst {{Unicode}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="165">[[Asian Cup Winners Cup 2002#First Round|{{#if:{{{dc|}}}|Asian Cup Winners Cup 2002&amp;#32;}}First Round]]&lt;!--
+--&gt;&lt;noinclude&gt;[[Category:Fb_round_templates]]&lt;/noinclude&gt;</text>
+      <sha1>lziydkks54ymxvojqqkc6h3uxbgj4tj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Germany squad 1999 FIFA Women's World Cup</title>
+    <ns>10</ns>
+    <id>13216154</id>
+    <revision>
+      <id>732118452</id>
+      <parentid>696618057</parentid>
+      <timestamp>2016-07-29T19:24:16Z</timestamp>
+      <contributor>
+        <ip>86.160.141.10</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1406">{{National squad
+ | name      = Germany squad 1999 FIFA Women's World Cup
+ | bg        = white
+ | fg        = black
+ |bordercolor= black
+ | country   = Germany
+ | comp link = 1999 FIFA Women's World Cup
+ | comp      = 1999 FIFA Women's World Cup
+ | gender    = female
+ | p1        = [[Silke Rottenberg|Rottenberg]]
+ | p2        = [[Kerstin Stegemann|Stegemann]]
+ | p3        = [[Ariane Hingst|Hingst]]
+ | p4        = [[Steffi Jones|Jones]]
+ | p5        = [[Doris Fitschen|Fitschen]]&amp;nbsp;([[Captain (association football)|c]])
+ | p6        = [[Melanie Hoffmann|Hoffmann]]
+ | p7        = [[Martina Voss-Tecklenburg|Voss]]
+ | p8        = [[Sandra Smisek|Smisek]]
+ | p9        = [[Birgit Prinz|Prinz]]
+ | p10       = [[Bettina Wiegmann|Wiegmann]]
+ | p11       = [[Maren Meinert|Meinert]]
+ | p12       = [[Claudia Müller|Müller]]
+ | p13       = [[Sandra Minnert|Minnert]]
+ | p14       = [[Tina Wunderlich|T. Wunderlich]]
+ | p15       = [[Nadine Angerer|Angerer]]
+ | p16       = [[Renate Lingor|Lingor]]
+ | p17       = [[Pia Wunderlich|P. Wunderlich]]
+ | p18       = [[Inka Grings|Grings]]
+ | p19       = [[Nicole Brandebusemeyer|Brandebusemeyer]]
+ | p20       = [[Monika Meyer (footballer)|Meyer]]
+ | coach     = [[Tina Theune|Theune-Meyer]]
+}}&lt;noinclude&gt;
+[[Category:1999 FIFA Women's World Cup squad navigational boxes]]
+[[Category:Germany FIFA Women's World Cup squad navigational boxes|1999]]
+&lt;/noinclude&gt;</text>
+      <sha1>la0buzqiei80x6z3h0p9kmiim8kasny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Germany squad 2003 FIFA Women's World Cup</title>
+    <ns>10</ns>
+    <id>13215174</id>
+    <revision>
+      <id>783315431</id>
+      <parentid>732118607</parentid>
+      <timestamp>2017-06-01T13:55:16Z</timestamp>
+      <contributor>
+        <username>Mitch Ames</username>
+        <id>6326132</id>
+      </contributor>
+      <comment>Uncapitalise common noun per [[MOS:CAPS]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1464">{{National squad
+ | name      = Germany squad 2003 FIFA Women's World Cup
+ | bg        = white
+ | fg        = black
+ |bordercolor= black
+ | country   = Germany
+ | comp link = 2003 FIFA Women's World Cup
+ | comp      = 2003 FIFA Women's World Cup winners (1st title)
+ | gender    = female
+ | p1        = [[Silke Rottenberg|Rottenberg]]
+ | p2        = [[Kerstin Stegemann|Stegemann]]
+ | p3        = [[Linda Bresonik|Bresonik]]
+ | p4        = [[Nia Künzer|Künzer]]
+ | p5        = [[Steffi Jones|Jones]]
+ | p6        = [[Renate Lingor|Lingor]]
+ | p7        = [[Pia Wunderlich|Wunderlich]]
+ | p8        = [[Sandra Smisek|Smisek]]
+ | p9        = [[Birgit Prinz|Prinz]]
+ | p10       = [[Bettina Wiegmann|Wiegmann]] ([[Captain (association football)|c]])
+ | p11       = [[Martina Müller (footballer)|Müller]]
+ | p12       = [[Sonja Fuss|Fuss]]
+ | p13       = [[Sandra Minnert|Minnert]]
+ | p14       = [[Maren Meinert|Meinert]]
+ | p15       = [[Nadine Angerer|Angerer]]
+ | p16       = [[Viola Odebrecht|Odebrecht]]
+ | p17       = [[Ariane Hingst|Hingst]]
+ | p18       = [[Kerstin Garefrekes|Garefrekes]]
+ | p19       = [[Stefanie Gottschlich|Gottschlich]]
+ | p20       = [[Conny Pohlers|Pohlers]]
+ | coach     = [[Tina Theune|Theune-Meyer]]
+}}&lt;noinclude&gt;
+[[Category:2003 FIFA Women's World Cup squad navigational boxes]]
+[[Category:Germany FIFA Women's World Cup squad navigational boxes|2003]]
+[[Category:Germany at the 2003 FIFA Women's World Cup|squad]]
+&lt;/noinclude&gt;</text>
+      <sha1>lg20occ7lcmbzzu4wzxnf3pkg4fpxmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Germany squad UEFA Women's Euro 2001</title>
+    <ns>10</ns>
+    <id>24959318</id>
+    <revision>
+      <id>792110305</id>
+      <parentid>783315418</parentid>
+      <timestamp>2017-07-24T14:31:31Z</timestamp>
+      <contributor>
+        <username>Joeykai</username>
+        <id>14841472</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1457">{{National squad
+ | name= Germany squad UEFA Women's Euro 2001
+ | bg        = white
+ | fg        = black
+ |bordercolor=black
+ | country   = Germany
+ | comp link = UEFA Women's Euro 2001
+ | comp      = UEFA Women's Euro 2001 winners (5th title)
+ | gender    = female
+ | p1        = [[Silke Rottenberg|Rottenberg]] 
+ | p2        = [[Kerstin Stegemann|Stegemann]] 
+ | p3        = [[Linda Bresonik|Bresonik]] 
+ | p4        = [[Steffi Jones|Jones]] 
+ | p5        = [[Doris Fitschen|Fitschen]]&amp;nbsp;([[Captain (association football)|c]])
+ | p6        = [[Maren Meinert|Meinert]] 
+ | p7        = [[Pia Wunderlich|P. Wunderlich]] 
+ | p8        = [[Sandra Smisek|Smisek]] 
+ | p9        = [[Birgit Prinz|Prinz]] 
+ | p10       = [[Bettina Wiegmann|Wiegmann]] 
+ | p11       = [[Martina Müller (footballer)|M. Müller]] 
+ | p12       = [[Claudia Müller|C. Müller]]
+ | p13       = [[Sandra Minnert|Minnert]] 
+ | p14       = [[Madleen Wilder|Wilder]]
+ | p15       = [[Navina Omilade|Omilade]] 
+ | p16       = [[Renate Lingor|Lingor]] 
+ | p17       = [[Ariane Hingst|Hingst]] 
+ | p18       = [[Petra Wimbersky|Wimbersky]] 
+ | p19       = [[Tina Wunderlich|T. Wunderlich]] 
+ | p20       = [[Nadine Angerer|Angerer]] 
+ | coach      = [[Tina Theune|Theune-Meyer]]
+}}&lt;noinclude&gt;
+[[Category:Germany UEFA Women's Championship squad templates|2001]]
+[[Category:2000–01 in German women's football|UEFA]]
+[[Category:UEFA Women's Euro 2001 squad templates|Germany]]
+&lt;/noinclude&gt;</text>
+      <sha1>7yexaluy48n6koxumr8eb8rjrkv5xeh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Hurricane Isabel related</title>
+    <ns>10</ns>
+    <id>19597656</id>
+    <revision>
+      <id>826660965</id>
+      <parentid>826659619</parentid>
+      <timestamp>2018-02-20T10:09:15Z</timestamp>
+      <contributor>
+        <username>B dash</username>
+        <id>20794100</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="789">'''Effects'''
+&lt;small&gt;
+*'''United States'''
+**[[Effects of Hurricane Isabel in North Carolina|North&amp;nbsp;Carolina]]
+**[[Effects of Hurricane Isabel in Virginia|Virginia]]
+**[[Effects of Hurricane Isabel in Maryland and Washington, D.C.|Maryland&amp;nbsp;and&amp;nbsp;Washington,&amp;nbsp;D.C.]]
+**[[Effects of Hurricane Isabel in Delaware|Delaware]]
+**[[Effects of Hurricane Isabel in Pennsylvania|Pennsylvania]]
+**[[Effects of Hurricane Isabel in New Jersey|New Jersey]]
+**[[Effects of Hurricane Isabel in New York and New England|New&amp;nbsp;York&amp;nbsp;and&amp;nbsp;New&amp;nbsp;England]]
+*[[Effects of Hurricane Isabel in Canada|Canada]]
+&lt;/small&gt;
+'''Other wikis'''
+&lt;small&gt;
+*[[commons:Category:Hurricane Isabel|Commons: Isabel images]]
+&lt;/small&gt;
+&lt;noinclude&gt;
+[[Category:Hurricane &quot;related&quot; templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>6ikdvq2542peyymek9bqpfu6o480885</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ISO 639-2</title>
+    <ns>10</ns>
+    <id>54401145</id>
+    <revision>
+      <id>819687607</id>
+      <parentid>817346935</parentid>
+      <timestamp>2018-01-10T19:21:42Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:ISO 639-2]]&quot;: [[WP:SEMI|semi-protecting]] highly-visible templates in response to recent template-space vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed access] (ind...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4642">&lt;span class=&quot;plainlinks&quot;&gt;[https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?code_ID={{#switch:{{{1|}}}
+|aar=1
+|abk=2
+|ace=3
+|ach=4
+|ada=5
+|ady=6
+|afa=7
+|afh=8
+|afr=9
+|ain=10
+|aka=11
+|akk=12
+|alb=14
+|ale=15
+|alg=16
+|alt=17
+|amh=18
+|ang=19
+|anp=20
+|apa=21
+|ara=22
+|arc=23
+|arg=24
+|arm=26
+|arn=27
+|arp=28
+|art=29
+|arw=30
+|asm=31
+|ast=32
+|ath=33
+|aus=34
+|ava=35
+|ave=36
+|awa=37
+|aym=38
+|aze=39
+|bad=40
+|bai=41
+|bak=42
+|bal=43
+|bam=44
+|ban=45
+|baq=47
+|bas=48
+|bat=49
+|bej=50
+|bel=51
+|bem=52
+|ben=53
+|ber=54
+|bho=55
+|bih=56
+|bik=57
+|bin=58
+|bis=59
+|bla=60
+|bnt=61
+|bod=447
+|bos=62
+|bra=63
+|bre=64
+|btk=65
+|bua=66
+|bug=67
+|bul=68
+|bur=70
+|byn=71
+|cad=72
+|cai=73
+|car=74
+|cat=75
+|cau=76
+|ceb=77
+|cel=78
+|ces=107
+|cha=79
+|chb=80
+|che=81
+|chg=82
+|chi=84
+|chk=85
+|chm=86
+|chn=87
+|cho=88
+|chp=89
+|chr=90
+|chu=91
+|chv=92
+|chy=93
+|cmc=94
+|cnr=515
+|cop=95
+|cor=96
+|cos=97
+|cpe=98
+|cpf=99
+|cpp=100
+|cre=101
+|crh=102
+|crp=103
+|csb=104
+|cus=105
+|cym=487
+|cze=107
+|dak=108
+|dan=109
+|dar=110
+|day=111
+|del=112
+|den=113
+|deu=160
+|dgr=114
+|din=115
+|div=116
+|doi=117
+|dra=118
+|dsb=119
+|dua=120
+|dum=121
+|dut=123
+|dyu=124
+|dzo=125
+|efi=126
+|egy=127
+|eka=128
+|ell=175
+|elx=129
+|eng=130
+|enm=131
+|epo=132
+|est=133
+|eus=47
+|ewe=134
+|ewo=135
+|fan=136
+|fao=137
+|fas=357
+|fat=138
+|fij=139
+|fil=140
+|fin=141
+|fiu=142
+|fon=143
+|fra=145
+|fre=145
+|frm=146
+|fro=147
+|frr=148
+|frs=149
+|fry=150
+|ful=151
+|fur=152
+|gaa=153
+|gay=154
+|gba=155
+|gem=156
+|geo=158
+|ger=160
+|gez=161
+|gil=162
+|gla=163
+|gle=164
+|glg=165
+|glv=166
+|gmh=167
+|goh=168
+|gon=169
+|gor=170
+|got=171
+|grb=172
+|grc=173
+|gre=175
+|grn=176
+|gsw=177
+|guj=178
+|gwi=179
+|hai=180
+|hat=181
+|hau=182
+|haw=183
+|heb=184
+|her=185
+|hil=186
+|him=187
+|hin=188
+|hit=189
+|hmn=190
+|hmo=191
+|hrv=394
+|hsb=192
+|hun=193
+|hup=194
+|hye=26
+|iba=195
+|ibo=196
+|ice=198
+|ido=199
+|iii=200
+|ijo=201
+|iku=202
+|ile=203
+|ilo=204
+|ina=205
+|inc=206
+|ind=207
+|ine=208
+|inh=209
+|ipk=210
+|ira=211
+|iro=212
+|isl=198
+|ita=213
+|jav=214
+|jbo=215
+|jpn=216
+|jpr=217
+|jrb=218
+|kaa=219
+|kab=220
+|kac=221
+|kal=222
+|kam=223
+|kan=224
+|kar=225
+|kas=226
+|kat=158
+|kau=227
+|kaw=228
+|kaz=229
+|kbd=230
+|kha=231
+|khi=232
+|khm=233
+|kho=234
+|kik=235
+|kin=236
+|kir=237
+|kmb=238
+|kok=239
+|kom=240
+|kon=241
+|kor=242
+|kos=243
+|kpe=244
+|krc=245
+|krl=246
+|kro=247
+|kru=248
+|kua=249
+|kum=250
+|kur=251
+|kut=252
+|lad=253
+|lah=254
+|lam=255
+|lao=256
+|lat=257
+|lav=258
+|lez=259
+|lim=260
+|lin=261
+|lit=262
+|lol=263
+|loz=264
+|ltz=265
+|lua=266
+|lub=267
+|lug=268
+|lui=269
+|lun=270
+|luo=271
+|lus=272
+|mac=274
+|mad=275
+|mag=276
+|mah=277
+|mai=278
+|mak=279
+|mal=280
+|man=281
+|mao=283
+|map=284
+|mar=285
+|mas=286
+|may=288
+|mdf=289
+|mdr=290
+|men=291
+|mga=292
+|mic=293
+|min=294
+|mis=295
+|mkd=274
+|mkh=296
+|mlg=297
+|mlt=298
+|mnc=299
+|mni=300
+|mno=301
+|moh=302
+|mon=304
+|mos=305
+|mri=283
+|msa=288
+|mul=306
+|mun=307
+|mus=308
+|mwl=309
+|mwr=310
+|mya=70
+|myn=311
+|myv=312
+|nah=313
+|nai=314
+|nap=315
+|nau=316
+|nav=317
+|nbl=318
+|nde=319
+|ndo=320
+|nds=321
+|nep=322
+|new=323
+|nia=324
+|nic=325
+|niu=326
+|nld=123
+|nno=327
+|nob=328
+|nog=329
+|non=330
+|nor=331
+|nqo=506
+|nso=332
+|nub=333
+|nwc=334
+|nya=335
+|nym=336
+|nyn=337
+|nyo=338
+|nzi=339
+|oci=340
+|oji=341
+|ori=342
+|orm=343
+|osa=344
+|oss=345
+|ota=346
+|oto=347
+|paa=348
+|pag=349
+|pal=350
+|pam=351
+|pan=352
+|pap=353
+|pau=354
+|peo=355
+|per=357
+|phi=358
+|phn=359
+|pli=360
+|pol=361
+|pon=362
+|por=363
+|pra=364
+|pro=365
+|pus=366
+|qaa-qtz=367
+|que=368
+|raj=369
+|rap=370
+|rar=371
+|roa=372
+|roh=373
+|rom=374
+|ron=376
+|rum=376
+|run=377
+|rup=378
+|rus=379
+|sad=380
+|sag=381
+|sah=382
+|sai=383
+|sal=384
+|sam=385
+|san=386
+|sas=387
+|sat=388
+|scn=391
+|sco=392
+|sel=395
+|sem=396
+|sga=397
+|sgn=398
+|shn=399
+|sid=400
+|sin=401
+|sio=402
+|sit=403
+|sla=404
+|slk=406
+|slo=406
+|slv=407
+|sma=408
+|sme=409
+|smi=410
+|smj=411
+|smn=412
+|smo=413
+|sms=414
+|sna=415
+|snd=416
+|snk=417
+|sog=418
+|som=419
+|son=420
+|sot=421
+|spa=422
+|sqi=14
+|srd=423
+|srn=424
+|srp=390
+|srr=425
+|ssa=426
+|ssw=427
+|suk=428
+|sun=429
+|sus=430
+|sux=431
+|swa=432
+|swe=433
+|syc=511
+|syr=434
+|tah=435
+|tai=436
+|tam=437
+|tat=438
+|tel=439
+|tem=440
+|ter=441
+|tet=442
+|tgk=443
+|tgl=444
+|tha=445
+|tib=447
+|tig=448
+|tir=449
+|tiv=450
+|tkl=451
+|tlh=452
+|tli=453
+|tmh=454
+|tog=455
+|ton=456
+|tpi=457
+|tsi=458
+|tsn=459
+|tso=460
+|tuk=461
+|tum=462
+|tup=463
+|tur=464
+|tut=465
+|tvl=466
+|twi=467
+|tyv=468
+|udm=469
+|uga=470
+|uig=471
+|ukr=472
+|umb=473
+|und=474
+|urd=475
+|uzb=476
+|vai=477
+|ven=478
+|vie=479
+|vol=480
+|vot=481
+|wak=482
+|wal=483
+|war=484
+|was=485
+|wel=487
+|wen=488
+|wln=489
+|wol=490
+|xal=491
+|xho=492
+|yao=493
+|yap=494
+|yid=495
+|yor=496
+|ypk=497
+|zap=498
+|zbl=512
+|zen=499
+|zgh=514
+|zha=500
+|zho=84
+|znd=501
+|zul=502
+|zun=503
+|zxx=504
+|zza=510
+}} {{{2|{{{1}}}}}}]&lt;/span&gt;&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>5lgt35fsbbu5jjz7hm5dspaa95e3544</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:ISU figure skater</title>
+    <ns>10</ns>
+    <id>4887451</id>
+    <revision>
+      <id>754310218</id>
+      <parentid>751613332</parentid>
+      <timestamp>2016-12-11T23:41:48Z</timestamp>
+      <contributor>
+        <username>Zyxw</username>
+        <id>473593</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */update text for missing ID using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1039">{{#if: {{{1&lt;includeonly&gt;|&lt;/includeonly&gt;}}} {{{id|}}} {{#property:P2694}}
+|[http://www.isuresults.com/bios/isufs{{Trim|{{{1|{{{id&lt;includeonly&gt;|{{#property:P2694}}&lt;/includeonly&gt;}}}}}}}}.htm {{#if:{{{2|{{{name&lt;includeonly&gt;|&lt;/includeonly&gt;}}}}}}|{{{2|{{{name}}}}}}|{{PAGENAMEBASE}}}}] at the [[International Skating Union]]&lt;includeonly&gt;{{EditAtWikidata|pid=P2694|{{{1|{{{id|}}}}}}}}&lt;/includeonly&gt;
+|&lt;span class=&quot;error&quot;&gt;&amp;#123;&amp;#123;[[Template:ISU figure skater|ISU figure skater]]&amp;#125;&amp;#125; template missing ID and not present in Wikidata.&lt;/span&gt;
+}}{{#if: {{{1|{{{id|}}}}}}
+|&lt;!--has &quot;id&quot;--&gt;{{WikidataCheck|property=P2694|value={{{1|{{{id|}}}}}}|category=ISU figure skater ID}}
+|{{#if: {{#property:P2694}}
+ |&lt;!--no &quot;id&quot;, exists in Wikidata --&gt;{{Main other|[[Category:ISU figure skater template using Wikidata]]}}
+ |&lt;!--no &quot;id&quot; and not in Wikidata --&gt;{{Main other|[[Category:ISU figure skater template missing ID]]}}
+ }}
+}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;!-- Please add categories to the /doc subpage &amp; add interwikis to Wikidata. --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>hl3rr0ooote6p5yu1o7zr8p6a5q4rij</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Infobox U.S. Courts of Appeals case</title>
+    <ns>10</ns>
+    <id>17426999</id>
+    <revision>
+      <id>821201752</id>
+      <parentid>662363222</parentid>
+      <timestamp>2018-01-19T00:30:24Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:Infobox U.S. Courts of Appeals case]]&quot;: [[WP:SEMIPROT|semi-protection]] of high-usage templates to combat systematic vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6241">&lt;includeonly&gt;{{Infobox court case
+&lt;!-- main parameters --&gt;
+| name                = {{{name|{{{Litigants|{{PAGENAMEBASE}} }}} }}}
+| court               = {{{CourtName|{{{Court|{{{court}}} }}} }}}
+| image               = {{{image|}}}
+| imagesize           = {{{imagesize|}}}
+| imagelink           = {{{imagelink|}}}
+| imagealt            = {{{imagealt|}}}
+| caption             = {{{caption|}}}
+| full name           = {{{FullName|{{{full name|}}} }}}
+| date_decided        = {{{DecideDate|{{{date_decided|{{{date decided|}}} }}} }}} {{{DecideYear|}}}
+| citations           = {{{Citation|{{{citations|{{{Citations|{{{CitationNew|}}} }}} }}} }}}
+| transcripts         = {{{transcripts|}}}
+| judges              = {{{judges|{{{Judges|{{{Membership|}}} }}} }}}
+| decision by         = {{{decision by|}}}
+| concurring          = {{{concurring|{{{Concurrence|}}} }}}
+| dissenting          = {{{dissenting|{{{Dissent|}}} }}}
+| concur/dissent      = {{{Concur/dissent|{{{Concurrence/Dissent|{{{concur/dissent|}}} }}} }}}
+| prior_actions       = {{{prior_actions|{{{prior actions|{{{Prior|}}} }}} }}}
+| appealed from       = {{{appealed from|}}}
+| appealed to         = {{{appealed to|}}}
+| subsequent_actions  = {{{subsequent_actions|{{{subsequent actions|{{{Subsequent|}}} }}} }}}
+| related actions     = {{{related actions|{{{Related|}}} }}}
+| holding             = {{{Outcome|{{{QuestionsPresented|{{{Holding|{{{holding|{{{Ruling|{{{opinions|}}} }}} }}} }}} }}} }}}
+| laws_applied        = {{{LawsApplied|{{{laws_applied|}}} }}}
+| keywords            = {{{Keywords|{{{keywords|}}} }}}
+| italic title        = {{{italic title|}}}
+&lt;!-- legacy parameters from Infobox SCOTUS case --&gt;
+| CourtSeal           = {{{CourtSeal|}}}
+| ArgueDate           = {{{ArgueDate|}}}
+| ArgueDateA          = {{{ArgueDateA|}}}
+| ArgueDateB          = {{{ArgueDateB|}}}
+| ArgueDateC          = {{{ArgueDateC|}}}
+| ArgueYear           = {{{ArgueYear|}}}
+| ReargueDate         = {{{ReargueDate|}}}
+| ReargueDateA        = {{{ReargueDateA|}}}
+| ReargueDateB        = {{{ReargueDateB|}}}
+| ReargueYear         = {{{ReargueYear|}}}
+| ReargueDate2        = {{{ReargueDate2|}}}
+| ReargueDateA2       = {{{ReargueDateA2|}}}
+| ReargueDateB2       = {{{ReargueDateB2|}}}
+| ReargueYear2        = {{{ReargueYear2|}}}
+| SubmitDate          = {{{SubmitDate|}}}
+| SubmitYear          = {{{SubmitYear|}}}
+| Neutral Citation    = {{{Neutral Citation|}}}
+| Other Citations     = {{{Other Citations|}}}
+| Claim               = {{{Claim|}}}
+| Cases_cited         = {{{Cases_cited|}}}
+| Legislation_cited   = {{{Legislation_cited|}}}
+| Procedural          = {{{Procedural|}}}
+| OralArgument        = {{{OralArgument|}}}
+| OralArguments       = {{{OralArguments|}}}
+| OralReargument      = {{{OralReargument|}}}
+| OpinionAnnouncement = {{{OpinionAnnouncement|}}}
+| ChiefJudge          = {{{ChiefJudge|}}}
+| AssociateJudges     = {{{AssociateJudges|}}}
+| PerCuriam           = {{{PerCuriam|}}}
+| Majority            = {{{Majority|}}}
+| JoinMajority        = {{{JoinMajority|}}}
+| Majority2           = {{{Majority2|}}}
+| JoinMajority2       = {{{JoinMajority2|}}}
+| Majority3           = {{{Majority3|}}}
+| JoinMajority3       = {{{JoinMajority3|}}}
+| Plurality           = {{{Plurality|}}}
+| JoinPlurality       = {{{JoinPlurality|}}}
+| Plurality2          = {{{Plurality2|}}}
+| JoinPlurality2      = {{{JoinPlurality2|}}}
+| Plurality3          = {{{Plurality3|}}}
+| JoinPlurality3      = {{{JoinPlurality3|}}}
+| Plurality4          = {{{Plurality4|}}}
+| JoinPlurality4      = {{{JoinPlurality4|}}}
+| Seriatim            = {{{Seriatim|}}}
+| Seriatim2           = {{{Seriatim2|}}}
+| Seriatim3           = {{{Seriatim3|}}}
+| Seriatim4           = {{{Seriatim4|}}}
+| Seriatim5           = {{{Seriatim5|}}}
+| JoinConcurrence     = {{{JoinConcurrence|}}}
+| Concurrence2        = {{{Concurrence2|}}}
+| JoinConcurrence2    = {{{JoinConcurrence2|}}}
+| Concurrence3        = {{{Concurrence3|}}}
+| JoinConcurrence3    = {{{JoinConcurrence3|}}}
+| Concurrence4        = {{{Concurrence4|}}}
+| JoinConcurrence4    = {{{JoinConcurrence4|}}}
+| Concurrence5        = {{{Concurrence5|}}}
+| JoinConcurrence5    = {{{JoinConcurrence5|}}}
+| Concurrence6        = {{{Concurrence6|}}}
+| JoinConcurrence6    = {{{JoinConcurrence6|}}}
+| Concurrence7        = {{{Concurrence7|}}}
+| JoinConcurrence7    = {{{JoinConcurrence7|}}}
+| Concurrence8        = {{{Concurrence8|}}}
+| JoinConcurrence8    = {{{JoinConcurrence8|}}}
+| JoinConcurrence/Dissent  = {{{JoinConcurrence/Dissent|}}}
+| Concurrence/Dissent2     = {{{Concurrence/Dissent2|}}}
+| JoinConcurrence/Dissent2 = {{{JoinConcurrence/Dissent2|}}}
+| Concurrence/Dissent3     = {{{Concurrence/Dissent3|}}}
+| JoinConcurrence/Dissent3 = {{{JoinConcurrence/Dissent3|}}}
+| Concurrence/Dissent4     = {{{Concurrence/Dissent4|}}}
+| JoinConcurrence/Dissent4 = {{{JoinConcurrence/Dissent4|}}}
+| Concurrence/Dissent5     = {{{Concurrence/Dissent5|}}}
+| JoinConcurrence/Dissent5 = {{{JoinConcurrence/Dissent5|}}}
+| Concurrence/Dissent6     = {{{Concurrence/Dissent6|}}}
+| JoinConcurrence/Dissent6 = {{{JoinConcurrence/Dissent6|}}}
+| Concurrence/Dissent7     = {{{Concurrence/Dissent7|}}}
+| JoinConcurrence/Dissent7 = {{{JoinConcurrence/Dissent7|}}}
+| Concurrence/Dissent8     = {{{Concurrence/Dissent8|}}}
+| JoinConcurrence/Dissent8 = {{{JoinConcurrence/Dissent8|}}}
+| JoinDissent         = {{{JoinDissent|}}}
+| ConcurrenceDissent  = {{{ConcurrenceDissent|}}}
+| Dissent2            = {{{Dissent2|}}}
+| JoinDissent2        = {{{JoinDissent2|}}}
+| ConcurrenceDissent2 = {{{ConcurrenceDissent2|}}}
+| Dissent3            = {{{Dissent3|}}}
+| JoinDissent3        = {{{JoinDissent3|}}}
+| ConcurrenceDissent3 = {{{ConcurrenceDissent3|}}}
+| Dissent4            = {{{Dissent4|}}}
+| JoinDissent4        = {{{JoinDissent4|}}}
+| ConcurrenceDissent4 = {{{ConcurrenceDissent4|}}}
+| Dissent5            = {{{Dissent5|}}}
+| JoinDissent5        = {{{JoinDissent5|}}}
+| ConcurrenceDissent5 = {{{ConcurrenceDissent5|}}}
+| NotParticipating    = {{{NotParticipating|}}}
+| Superseded          = {{{Superseded|}}}
+| Overruled           = {{{Overruled|}}}
+| Overturned previous case = {{{Overturned previous case|}}}
+| Abrogated           = {{{Abrogated|}}}
+}}&lt;/includeonly&gt;&lt;noinclude&gt;{{doc}}&lt;/noinclude&gt;</text>
+      <sha1>4b3k14r0ckxeevllliv9e4631145evg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Keisei Line Symbol</title>
+    <ns>10</ns>
+    <id>53659714</id>
+    <revision>
+      <id>823426459</id>
+      <parentid>781413797</parentid>
+      <timestamp>2018-02-01T04:31:18Z</timestamp>
+      <contributor>
+        <username>Chiro08</username>
+        <id>26989423</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="834">&lt;includeonly&gt;&lt;span style=&quot;display:inline-block; position:relative; vertical-align:middle; width:{{size-calc|{{{size|20}}}|20|* 4 / 5|0|70}}; height:{{size-calc|{{{size|20}}}|20|* 4 / 5|0|70}}; border:solid {{size-calc|{{{size|20}}}|20|/ 10|0|70}} {{{color|{{Ja-rail-color|{{{name|{{{1}}}}}}|{{{ns|}}}}}}}}; border-radius:50%; background:White; text-align:center; font-weight:Bold; color:{{{fontcolor|{{{color|{{Ja-rail-color|{{{name|{{{1}}}}}}|{{{ns|}}}}}}}}}}};&quot;&gt;&lt;span style=&quot;position:absolute; width:{{size-calc|{{{size|20}}}|20|* 4 / 5|0|70}}; height:{{size-calc|{{{size|20}}}|20|/ 2|0|70}}; font-size:{{size-calc|{{{size|20}}}|20|/ 2|0|70}}; line-height:{{size-calc|{{{size|20}}}|20|/ 2|0|70}}; top:{{size-calc|{{{size|20}}}|20|* 3 / 20|0|70}}; left:0;&quot;&gt;{{{name|{{{1}}}}}}&lt;/span&gt;&lt;/span&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{doc}}&lt;/noinclude&gt;</text>
+      <sha1>a0bmgeseqfqyui4xa08jxeoo1d7b2rp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:League icon</title>
+    <ns>10</ns>
+    <id>11956409</id>
+    <revision>
+      <id>823197316</id>
+      <parentid>823108420</parentid>
+      <timestamp>2018-01-30T20:53:48Z</timestamp>
+      <contributor>
+        <username>MSGJ</username>
+        <id>42630</id>
+      </contributor>
+      <minor/>
+      <comment>rmv surplus File</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9739">&lt;includeonly&gt;{{#if:{{{1|}}}|[[Image:{{#switch:{{lc:{{{1}}}}}
+|brl=Brisbane Rugby League.png
+|none=No image.svg&lt;!--
+
+
+NATIONAL RUGBY LEAGUE TEAMS GO BELOW HERE
+
+
+--&gt;|adelaide|adelaide rams=Adelaide colours.svg
+|annandale|annandale dales=Annandale colours.svg
+|auckland|auckland warriors=Auckland colours.svg
+|balmain|balmain tigers=Balmain colours.svg
+|brisbane|brisbane broncos=Brisbane colours.svg
+|canberra|canberra raiders=Canberra colours.svg
+|canterbury|canterbury bulldogs|sydney bulldogs|bulldogs=Canterbury colours.svg
+|cronulla|cronulla sharks=Cronulla colours.svg
+|cumberland|central cumberland=Cumberland colours.svg
+|sydney|sydney roosters|sydney city roosters|sydney city|easts|eastern suburbs=Eastern Suburbs colours.svg
+|glebe=Glebe colours.svg
+|gold coast|goldcoast=&lt;big&gt;&lt;span style=&quot;color:red;&quot;&gt;Error: Please specify '''Gold Coast Titans''' or '''Gold Coast Chargers''' or '''Gold Coast Seagulls''' or '''Gold Coast Giants''' or '''Gold Coast-Tweed Giants'''.&lt;/span&gt;&lt;/big&gt;
+|gold coast seagulls|gold coast chargers|gold coast giants|gold coast-tweed giants|gold coast tweed giants=Gold Coast Chargers colours.svg
+|gold coast titans=Gold Coast Titans colours.svg
+|hunter|hunter mariners=Hunter colours.svg
+|illawarra|illawarra steelers=Illawarra colours.svg
+|manly|manly sea eagles=Manly Sea Eagles colours.svg
+|melbourne|melbourne storm=Melbourne colours.svg
+|new zealand warriors|new zealand=New Zealand colours.svg
+|newcastle|newcastle knights=Newcastle colours.svg
+|newcastle foundation|newcastle1908|newcastle rebels=Newcastle foundation colours.svg
+|newtown|newtown jets=Newtown colours.svg
+|north queensland|nth qld|north queensland cowboys=North Queensland colours.svg
+|north sydney|norths|north sydney bears=North Sydney colours.svg
+|northern eagles=Northern Eagles colours.svg
+|parramatta|parramatta eels=Parramatta colours.svg
+|penrith|penrith panthers=Penrith Panthers square flag icon with 2017 colours.svg
+|penrith old|old penrith=Penrith colours.svg
+|souths|south sydney|south sydney rabbitohs|rabbitohs=South Sydney colours.svg
+|south queensland|south queensland crushers|sth qld=South Queensland colours.svg
+|st. george|st george|st.george|st. george dragons|st george dragons|st.george dragons=St. George colours.svg
+|st. george illawarra|st george illawarra|st.george illawarra|st. george illawarra dragons|st george illawarra dragons|st.george illawarra dragons=St. George Illawarra colours.svg
+|wests|tigers=&lt;big&gt;&lt;span style=&quot;color:red;&quot;&gt;Error: Please specify '''Balmain Tigers''' or '''Wests Tigers''' or '''Western Suburbs'''.&lt;/span&gt;&lt;/big&gt;
+|university=University colours.svg
+|warriors=&lt;big&gt;&lt;span style=&quot;color:red;&quot;&gt;Error: Please specify '''New Zealand Warriors''' or '''Auckland Warriors''' or '''New Haven Warriors'''.&lt;/span&gt;&lt;/big&gt;
+|western reds|perth|perth reds=Western Reds colours.svg
+|wa reds=WA Reds colours.svg
+|western suburbs|western suburbs magpies=Western Suburbs colours.svg
+|wests tigers=Wests Tigers colours.svg&lt;!--
+
+STATE OF ORIGIN TEAMS ANC CITY COUNTRY GO BELOW HERE
+
+--&gt;|new south wales|new south wales blues|nsw=New South Wales colours.svg
+|queensland|queensland maroons|qld=Queensland colours.svg
+|city=City colours.svg
+|country|country rugby league=Country colours.svg&lt;!--
+
+SUPER LEAGUE (EUROPE) CLUBS GO BELOW HERE
+
+--&gt;|bradford|bradford bulls=Bullscolours.svg
+|castleford|castleford tigers=Castleford colours.svg
+|catalans|les catalans|les catalans dragons|catalans dragons=Catalanscolours.svg
+|Crusaders Rugby League|celtic|crusaders=Cruscolours.svg
+|harlequins|quins=Quinscolours.svg
+|huddersfield|huddersfields giants=Giantscolours.svg
+|hull|hull fc|hullfc=Hullcolours.svg
+|hull kingston rovers|hull kingston|hull kr|hull k.r.|hull rovers=HKRcolours.svg
+|leeds rhinos|leeds=Rhinoscolours.svg
+|london broncos|london=Broncoscolours.png
+|salford city reds|salford city=Redscolours.svg
+|st.helens|st helens|st. helens=Saintscolours.svg
+|wakefield trinity wildcats|wakefield trinity|wakefield|wakefield wildcats|trinity|trinitu wildcats=Wcatscolours.svg
+|warrington wolves|warrington=Wolvescolours.svg
+|wigan|wigan warriors=Wigancolours.svg&lt;!--
+
+CHAMPIONSHIP (EUROPE) TEAMS GO BELOW HERE
+
+--&gt;|barrow|barrow raiders=Barrowcolours.svg
+|batley|batley bulldogs=Batley colours.svg
+|dewsbury|dewsbury rams=Ramscolours.svg
+|featherstone|featherstone rovers=Fevcolours.svg
+|halifax|halifax rlfc=Faxcolours.svg
+|keighley cougars|keighley=Cougscolours.svg
+|leigh|leigh canturions=Leigh colours.svg
+|north wales|north wales crusaders=NWCrucolours.png
+|sheffield eagles|sheffield=Sheffeagles colours.svg
+|toulouse olympique|toulouse=ToulouseRLcolours.PNG
+|whitehaven|haven|whitehave rlfc=Haven colours.svg
+|widnes|widnes vikings=Widnes colours.svg&lt;!--
+
+CHAMPIONSHIP 1 (EUROPE) TEAMS GO BELOW HERE
+
+--&gt;
+|blackpool|blackpool panthers=Blackpoolcolours.svg
+|coventry|coventry bears=Coventrycolours.png
+|doncaster|doncaster RLFC=Doncaster colours.svg
+|gateshead thunder|gateshead=Gthundercolours.svg
+|gloucestershire all golds|gloucestershire|gloucester=New South Wales colours.svg
+|hunslet hawks|hunslet=Hunsletcolours.svg
+|hemel stags|hemel=Hemelcolours.png
+|london skolars=Skolscolours.svg
+|oldham roughyeds|oldham=Oldhamcolours.svg
+|oxford rl|oxford=Oxfordcolours.png
+|rochdale hornets|rochdale=Rochdale colours.svg
+|south wales scorpions|south wales ironmen=Scorpions.png
+|swinton lions|swinton=Swintoncolours.svg
+|toronto wolfpack|toronto=New Zealand Kiwis colours.svg
+|workington|workington town=Workingtoncolours.svg
+|york city|york city knights=Yorkcolours.svg&lt;!--
+
+OTHER EUROPEAN TEAMS (NON SUPER LEAGUE OR CHAMPIONSHIP) GO BELOW HERE
+
+--&gt;
+|carcassonne|ascarcassonne=CarcassonneRLcolours.PNG
+|wigan st judes|st judes=StJudesRLColours.png
+|lezignan|lezignan sangliers|lézignan sangliers=LezignanRLcolours.PNG
+|northern raiders=Northern Raiders colors.png
+
+&lt;!--
+BRL &amp; QUEENSLAND CUP TEAMS GO BELOW HERE
+
+--&gt;|aspley|aspley broncos|aspley devils=Aspley Broncos colours.svg
+|burleigh|burleigh bears=Manly Sea Eagles colours.svg
+|brothers-valleys|brothers valleys=Brothers Valleys Colours.svg
+|bundaberg grizzlies|bundaberg=Bundaberg Colours.svg
+|cairns cyclones|cairns=Cairns Cyclones Colours.svg
+|central comets|central capras=Central Comets colours.svg
+|easts tigers=Balmain colours.svg
+|gold coast vikings=Gold Coast Vikings Colours.svg
+|ipswich|ipswich jets=Ipswich Colours.svg
+|logan scorpions=Hunter colours.svg
+|mackay sea eagles=Manly Sea Eagles colours.svg
+|mackay cutters=Mackay Cutters colours.svg
+|norths devils|northern suburbs devils|norths brisbane|brisbane norths=Norths Devils colours.svg
+|north queensland young guns=North Queensland colours.svg
+|northern pride=Northern Pride colours.png
+|past brothers|brothers=Brothers Colours.svg
+|port moresby vipers=Port Moresby Vipers Colours.svg
+|redcliffe|redcliffe dolphins=Redcliffe colours.svg
+|souths-logan magpies|souths logan magpies=Souths-Logan Magpies Colours.svg
+|sunshine coast falcons|sunshine coast=Sunshine Coast Colours.svg
+|sunshine coast sea eagles=Sunshine Coast Sea Eagles colours.png
+|townsville stingers=Canterbury colours.svg
+|toowoomba clydesdales|toowoomba=Toowoomba Clydesdales colours.svg
+|tweed heads|tweed heads seagulls|tweeds|souths magpies=Western Suburbs colours.svg
+|wests panthers|brisbane wests|wests brisbane=Wests Panthers Colours.svg
+|wynnum|wynnum-manly|wynnum-manly seagulls=Wynnum-Manly Colours.svg
+|valleys|fortitude valley diehards|fortitude valley|valleys diehards=Valleys colours.svg&lt;!--
+
+AMERICAN NATIONAL RUGBY LEAGUE TEAMS GO BELOW HERE
+
+--&gt;|aston dsc-glen mills|aston dsc bulls|aston bulls|aston|glen mills|glen bulls|glen mills bulls=Aston DSC-Glen Mills colours.svg
+|new jersey|bucks county sharks|bucks sharks=New Jersey colours.svg
+|connecticut|connecticut wildcats=Connecticut colors.svg
+|fairfax|fairfax eagles=Fairfax Eagles colors.svg
+|jacksonville axemen|jacksonville=Jacksonville colors.svg
+|new york|new york knights=New York colors.svg
+|new haven warriors|new haven=New Haven colours.svg
+|northern raiders=Northern Raiders colors.svg
+|philadelphia fight|philadelphia=Philadelphia colours.svg
+|washington d.c. slayers|washington dc slayers|washington d.c.|washington dc=Washington DC colours.svg
+|delaware valley mantarays|delaware valley|delaware mantarays=Delaware colours.svg
+|boston Braves|boston=Boston colours.svg&lt;!--
+
+NZRL BARTCERCARD PREMIERSHIP TEAMS GO BELOW HERE
+--&gt;|aucklandnzrl=Canterbury colours.svg&lt;!--
+--&gt;|bayofplenty|bop=Hunter_colours.svg&lt;!--
+--&gt;|canterburynzrl=North_Sydney_colours.svg&lt;!--
+--&gt;|taranaki|naki=Sunshine_Coast_Colours.svg&lt;!--
+--&gt;|waikato=Waikatoleague.png&lt;!-- 
+--&gt;|wellington=Wellington colours.svg&lt;!-- 
+
+INTERNATIONAL TEAMS GO BELOW HERE
+
+ --&gt;|australia|australia kangaroos|australian kangaroos|kangaroos=Australian colours.svg
+|kiwis|new zealand kiwis|nz=New Zealand Kiwis colours.svg
+|great britain|gb|great britain lions|lions=Great Britain colours.svg
+|ireland=Ireland colours.svg
+|papua new guinea|png=Papua New Guinea colours.svg
+|scotland=Scotland colours.svg
+|england=England colours.svg
+|wales=Wales colours.svg
+|russia=Russia colours.svg
+|france=France colours.svg
+|italy=Italy colours.svg
+|cook|cook islands|cook island=Australian colours.svg
+|fiji=Fijibaticolours.PNG
+|us|united states=United States colours.svg
+|tonga=Tongamatemacolours.PNG
+|lebanon=LebanonRLcolours.png
+|somoa|samoa=Canterbury colours.svg
+|south africa=Australian colours.svg
+|catalonia=Catalanscolours.png
+|canada=Canadacolours.png
+|serbia=Serbiacolours.png
+|jamaica=Jamaicacolours.png
+|spain=Spaincolours.png
+}}|{{#if:{{{thumb|}}}|thumb{{!}}}}{{{2|{{{size|23x23}}}}}}px|{{{align|}}}{{#if:{{{thumb|}}}|{{!}}{{{thumb}}}}}]]|&lt;big&gt;&lt;span style=&quot;color:red;&quot;&gt;Error: Please provide a team name.&lt;/span&gt;&lt;/big&gt;}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{template doc}}&lt;/noinclude&gt;</text>
+      <sha1>c3co5oa1v5cy6cvku0vma2u9tdx6mvk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Machine translate</title>
+    <ns>10</ns>
+    <id>19190111</id>
+    <revision>
+      <id>742767502</id>
+      <parentid>735513106</parentid>
+      <timestamp>2016-10-05T17:36:09Z</timestamp>
+      <contributor>
+        <username>Jonesey95</username>
+        <id>9755426</id>
+      </contributor>
+      <comment>strip white space and add space to fix &quot;xx icon&quot; vs. &quot;xxicon&quot; template calls</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="842">&lt;includeonly&gt;&lt;span class=&quot;machinetrans machinetrans_to_{{{lang|{{{1}}}}}} machinetrans_from_{{{dlang|en}}}&quot;&gt;{{#if:{{{nolink|}}}||[{{{url}}} {{{title|}}}]&amp;#x20;}}{{#if:{{{noicon|}}}||{{{{{lang|{{trim|{{{1}}}}}}}} icon}}&amp;#x20;}}(&lt;span title=&quot;Caution: Machine translations may be inaccurate.&quot; style=&quot;border-bottom: 1px dashed #86a1ff;&quot;&gt;Translate&lt;/span&gt;{{#if:{{{dlang|}}}|&amp;#x20;to {{language|{{{dlang}}}}}}}:&amp;#x20;&lt;!--
+
+Google Translate code:
+--&gt;[https://translate.google.com/translate?u={{urlencode:{{{url}}}}}&amp;hl=en&amp;ie=UTF-8&amp;sl={{trim|{{{lang|{{{1}}}}}}}}&amp;tl={{{dlang|en}}}&amp;edit-text= Google],&amp;#x20;&lt;!--
+
+Microsoft (Bing) Translator code:
+--&gt;[http://www.microsofttranslator.com/bv.aspx?from={{trim|{{{lang|{{{1}}}}}}}}&amp;to={{{dlang|en}}}&amp;a={{urlencode:{{{url}}}}} Bing]&lt;!--
+
+end
+--&gt;)&lt;/span&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>fnvr1m3loycfif74a40synjo4fx65qy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Medical citations needed/doc/see finally</title>
+    <ns>10</ns>
+    <id>37492356</id>
+    <revision>
+      <id>819006118</id>
+      <parentid>812266546</parentid>
+      <timestamp>2018-01-06T21:30:39Z</timestamp>
+      <contributor>
+        <username>Timrollpickering</username>
+        <id>32005</id>
+      </contributor>
+      <minor/>
+      <comment>Timrollpickering moved page [[Template:Medref/doc/see finally]] to [[Template:Medical citations needed/doc/see finally]]: per outcome at [[Template talk:More citations needed#Requested move 30 December 2017]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1021">=== Policies, guidelines, essays, and wikiprojects ===
+==== Medicine-specific ====
+* {{cite news |title=[[Wikipedia:Wikipedia Signpost/2008-06-30/Dispatches|Dispatches: Sources in biology and medicine&quot;]]|author= Vickers, Tim and Eubulides|newspaper=The Wikipedia Signpost |date= 30 June 2008}}
+* [[Wikipedia:Identifying reliable sources (natural sciences)]]
+* {{section link|Wikipedia:Reliable source examples|Physical sciences, mathematics and medicine}}
+* [[Wikipedia:Conflicts of interest (medicine)]]
+* [[Wikipedia:WikiProject Medicine]]
+** [[Wikipedia:WikiProject Medicine/Resources]], external resources useful for writing medicine related content
+
+==== General ====
+* [[Wikipedia:Verifiability]]
+* [[Wikipedia:Citing sources]], especially &amp;sect;&amp;thinsp;[[Wikipedia:Citing sources#Unsourced material|Unsourced material]]
+* [[Wikipedia:Identifying reliable sources]]
+* [[Wikipedia:Independent sources]]
+* [[Wikipedia:Third-party sources]]
+* [[Wikipedia:WikiProject Fact and Reference Check]]
+
+{{inline cleanup tags}}</text>
+      <sha1>1ibs1h9bce82ywfycdtitpnf390s7ru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Minor planet link templates/See also</title>
+    <ns>10</ns>
+    <id>52409634</id>
+    <revision>
+      <id>829067542</id>
+      <parentid>794917292</parentid>
+      <timestamp>2018-03-06T12:41:37Z</timestamp>
+      <contributor>
+        <username>Rfassbind</username>
+        <id>17706232</id>
+      </contributor>
+      <comment>/* top */ +{{Obscode}}; amended title to enlarge scope</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="373">; External link templates for minor planets
+* {{tl|DoMP}}
+* {{tl|JPL}}
+* {{tl|JPL small body}}
+* {{tl|LCDB}}
+* {{tl|MPC}}
+; Local link templates for minor planets and on related topics
+* {{tl|LoMP}}
+* {{tl|MoMP}}
+* {{tl|Obscode}}
+; Link templates on Solar System features
+* {{tl|GPN}} inline citations
+* {{tl|WGPSN}} external links&lt;noinclude&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>7d98gs6sh068p2f9am39o86u26vj27n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:NHL Year</title>
+    <ns>10</ns>
+    <id>21443301</id>
+    <revision>
+      <id>587938084</id>
+      <parentid>587701657</parentid>
+      <timestamp>2013-12-27T17:09:28Z</timestamp>
+      <contributor>
+        <username>Mark Arsten</username>
+        <id>15020596</id>
+      </contributor>
+      <minor/>
+      <comment>Protected Template:NHL Year: Vandal target ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="984">{{#if: {{{nolink|}}}
+| {{{1|1000}}}–{{padleft:{{#expr: ({{{1|1000}}} + 1) {{#if: {{{full|}}}||{{#ifeq: {{{1}}}|1999|{{#if: {{{trunc|}}}|mod 100}}|mod 100}} }} }}|2}}{{#if:{{{app|}}}|&amp;nbsp;{{{app}}}}} | [[{{#if:{{{team|}}}|{{#ifexist:{{{1|1000}}}–{{padleft:{{#expr: ({{{1|1000}}} + 1) {{#ifeq: {{{1}}}|1999||mod 100}}}}|2}} {{{team}}} season|{{{1|1000}}}–{{padleft:{{#expr: ({{{1|1000}}} + 1) {{#ifeq: {{{1}}}|1999||mod 100}}}}|2}} {{{team}}} season|{{{team}}}}}|{{{1|1000}}}–{{padleft:{{#expr: ({{{1|1000}}} + 1) {{#ifeq: {{{1}}}|1999||mod 100}}}}|2}} NHL season}}|{{#if:{{{title|}}}|{{{title}}}|{{#switch: {{{2}}}
+| start = {{{1|1000}}}
+| end = {{#expr: {{{1|1000}}} + 1}}
+| {{{1|1000}}}–{{padleft:{{#expr: ({{{1|1000}}} + 1) {{#if: {{{full|}}}||{{#ifeq: {{{1}}}|1999|{{#if: {{{trunc|}}}|mod 100}}|mod 100}} }} }}|2}}
+}}{{#if:{{{app|}}}|&amp;nbsp;{{{app}}}}}}}]]}}&lt;noinclude&gt;
+
+{{Documentation}}
+&lt;!-- Add categories and interwikis to the /doc subpage, not here! --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>reeyhi3ueni70yt7qaqrt3lh4acynqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:NYCS Broadway-Seventh center local</title>
+    <ns>10</ns>
+    <id>1443659</id>
+    <revision>
+      <id>810157660</id>
+      <parentid>810157502</parentid>
+      <timestamp>2017-11-13T17:31:40Z</timestamp>
+      <contributor>
+        <username>Epicgenius</username>
+        <id>17859592</id>
+      </contributor>
+      <comment>space</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="461">{{#ifeq:{{{exclude}}}|1||{{NYCS time 2|1|icon=alltimes|text=all times|time={{{time|}}}}}{{NYCS br|punct={{#if:{{{complex|}}}|{{#switch:{{{complex}}}|end=,and|#default=,}}|{{#if:{{{exclude|}}}||and}}}}|time={{{time|}}}}}}}{{#if:{{{exclude|}}}||&amp;#8203;}}{{#ifeq:{{{exclude}}}|2||{{NYCS time 2|2|icon=nightsonly|text=late nights|time={{{time|}}}}}}}&lt;noinclude&gt;{{esoteric}}[[Category:New York City Subway IRT division templates|Broadway-Seventh local]]
+&lt;/noinclude&gt;</text>
+      <sha1>tf04t0fvmzfao9fxh31rm9vgsnyfbxu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Order of the Patriotic War 1st Class</title>
+    <ns>10</ns>
+    <id>48979893</id>
+    <revision>
+      <id>816620655</id>
+      <parentid>816488247</parentid>
+      <timestamp>2017-12-22T15:08:09Z</timestamp>
+      <contributor>
+        <username>PlanespotterA320</username>
+        <id>27186560</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="311">[[File:Order gpw1 rib.png|40px|link=Order of the Patriotic War|Order of the Patriotic War (1st class){{#if: {{{1|}}}| — {{{1}}}}}]]{{#if:{{NAMESPACE}}||[[Category:Recipients of the Order of the Patriotic War, 1st class]]}}&lt;noinclude&gt;
+[[Category:Soviet military decorations and medals templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>sh71ayq7gxekpzisls83ihikr0cmmyi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:People's Party (South Korea, 2016)/meta/color</title>
+    <ns>10</ns>
+    <id>49218469</id>
+    <revision>
+      <id>807268303</id>
+      <parentid>718205741</parentid>
+      <timestamp>2017-10-26T23:14:33Z</timestamp>
+      <contributor>
+        <username>Dainshku</username>
+        <id>14693044</id>
+      </contributor>
+      <minor/>
+      <comment>Dainshku moved page [[Template:People's Party (South Korea)/meta/color]] to [[Template:People's Party (South Korea, 2016)/meta/color]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="355">&lt;nowiki&gt;#006542&lt;/nowiki&gt;&lt;noinclude&gt;
+
+== Examples ==
+{|
+|- style=&quot;color:{{ {{PAGENAME}} }}&quot;
+| '''This color'''
+|- style=&quot;background:{{ {{PAGENAME}} }}; color:white&quot;
+| '''White on this color'''
+|- style=&quot;background:{{ {{PAGENAME}} }}; color:black&quot;
+| '''Black on this color'''
+|}
+
+[[Category:Korea political party colour templates|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>m0ahsyhlofs23plf3ghed9sfg2853p0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:R from incorrect name</title>
+    <ns>10</ns>
+    <id>22360303</id>
+    <revision>
+      <id>827245577</id>
+      <parentid>785246051</parentid>
+      <timestamp>2018-02-23T16:30:18Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Changed protection level for &quot;[[Template:R from incorrect name]]&quot;: [[WP:HIGHRISK|high-risk]] template with 4000+ transclusions ([Edit=Require template editor access] (indefinite) [Move=Require template editor access] (indefinite))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="803">&lt;noinclude&gt;{{This is a redirect/rcat}}
+&lt;/noinclude&gt;{{Redirect template
+  |name=From incorrect name
+  |from=an erroneous name – either an incorrect name or a title that is unsuitable as a Wikipedia article title or other project page name – that serves readers because it is a good search term
+  |info=The correct name is {{#if:{{{1|}}}|'''{{Big|{{{1}}}}}'''|given by the target of the redirect}}.
+** ''Pages that use this link should be updated to link directly to the target'' without the use of a [[WP:piped link|piped link]] that hides the correct details.
+  |all category={{#ifeq:{{{demo}}}|yes||Redirects from incorrect names}}
+  |printworthy={{#ifeq:{{{2}}}|printworthy|yes|no}}
+}}&lt;noinclude&gt;
+&lt;!-- Place categories on /doc subpage; interwikis go to Wikidata. --&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>f6iispqcqiznsoaggy2x4rt3ng0tlsd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:R from related word</title>
+    <ns>10</ns>
+    <id>853862</id>
+    <revision>
+      <id>775864768</id>
+      <parentid>771498520</parentid>
+      <timestamp>2017-04-17T15:20:14Z</timestamp>
+      <contributor>
+        <username>Paine Ellsworth</username>
+        <id>9092818</id>
+      </contributor>
+      <minor/>
+      <comment>for clarity</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="932">&lt;noinclude&gt;{{This is a redirect/rcat}}
+&lt;/noinclude&gt;{{Redirect template
+  |name=From a related word or phrase
+  |from=a word (or [[phrase]])
+  |to=a page title that is related in some way.  This redirect might be a good candidate for a [[wikt:|Wiktionary]] link
+  |info=** Redirects from related words are not properly [[:Template:R from alternative spelling|redirects from alternative spelling]]s of the same word.  They are also different from redirects that are [[:Template:R from subtopic|subtopic]]s or [[:Template:R to related topic|related terms/topic]]s, because unlike those, a related word or phrase probably does not warrant its own subtopic section in the target page or possess the possibility of ever becoming an article, template, project page, and so forth.
+  |all category=Redirects from related words
+}}&lt;noinclude&gt;
+&lt;!-- Place categories on /doc subpage; interwikis go to Wikidata. --&gt;
+{{Documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>3qzj9l2wybtfh7pu6i6ko8mocws90gi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:RB color</title>
+    <ns>10</ns>
+    <id>33486504</id>
+    <revision>
+      <id>821203581</id>
+      <parentid>744848766</parentid>
+      <timestamp>2018-01-19T00:32:47Z</timestamp>
+      <contributor>
+        <username>Primefac</username>
+        <id>11508456</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Template:RB color]]&quot;: [[WP:SEMIPROT|semi-protection]] of high-usage templates to combat systematic vandalism ([Edit=Require autoconfirmed or confirmed access] (indefinite) [Move=Require autoconfirmed or confirmed access] (indefinite))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="109">{{#switch:{{{1}}}
+ | #default=00519E
+}}&lt;noinclude&gt;
+[[Category:Germany rail transport templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>oylffg5jw8n4tt4lqbrqxk91yp6hqza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:RE-RP color</title>
+    <ns>10</ns>
+    <id>25480654</id>
+    <revision>
+      <id>744848709</id>
+      <parentid>495343687</parentid>
+      <timestamp>2016-10-17T20:15:05Z</timestamp>
+      <contributor>
+        <username>Jonesey95</username>
+        <id>9755426</id>
+      </contributor>
+      <comment>Change color to match Template:Bahnlinie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="105">{{#switch:{{{1}}}
+ | #default=E2001A
+}}&lt;noinclude&gt;
+[[Category:RE-RP templates|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>sb42q3urcg2zm7v85jrhzo1lizzzzc0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Rinkai Line Symbol</title>
+    <ns>10</ns>
+    <id>54090190</id>
+    <revision>
+      <id>781278606</id>
+      <parentid>781278161</parentid>
+      <timestamp>2017-05-20T06:54:24Z</timestamp>
+      <contributor>
+        <username>Chiro08</username>
+        <id>26989423</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="763">&lt;includeonly&gt;&lt;span style=&quot;display:inline-block; margin:{{#expr: {{{size|20}}} / 10}}px; position:relative; vertical-align:middle; width:{{#expr: {{{size|20}}} * 18 / 25}}px; height:{{#expr: {{{size|20}}} * 18 / 25}}px; border:{{#expr: {{{size|20}}} / 25}}px solid white; border-radius:50%; box-shadow: 0 0 0 {{#expr: {{{size|20}}} / 10}}px #89C6CB; background:#38257D; text-align:center; color:white; font-weight:Bold; font-size:{{#expr: {{{size|20}}} * 1 / 2}}px;&quot;&gt;&lt;span style=&quot;position: absolute; width:{{#expr: {{{size|20}}} * 18 / 25}}px; height:{{#expr: {{{size|20}}} * 1 / 2}}px; line-height:{{#expr: {{{size|20}}} * 1 / 2}}px; top:{{#expr: {{{size|20}}} * 11 / 100}}px; left:0; text-align:center&quot;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{doc}}&lt;/noinclude&gt;</text>
+      <sha1>6j2x8urrewi2vjhhvb6v461gh96y1qo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:S-line/RE-BB left/2</title>
+    <ns>10</ns>
+    <id>34077123</id>
+    <revision>
+      <id>814893123</id>
+      <parentid>814893057</parentid>
+      <timestamp>2017-12-11T15:10:02Z</timestamp>
+      <contributor>
+        <username>Tobibln</username>
+        <id>1726021</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="93">{{#switch:{{{type}}}
+ | #default=Wismar
+}}&lt;noinclude&gt;[[Category:RE-BB templates]]&lt;/noinclude&gt;</text>
+      <sha1>f4h73gnta1mw3twyude9t8m60ic8b73</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:S-line/RE-BB right/2</title>
+    <ns>10</ns>
+    <id>34077120</id>
+    <revision>
+      <id>814893163</id>
+      <parentid>814892967</parentid>
+      <timestamp>2017-12-11T15:10:20Z</timestamp>
+      <contributor>
+        <username>Tobibln</username>
+        <id>1726021</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="94">{{#switch:{{{type}}}
+ | #default=Cottbus
+}}&lt;noinclude&gt;[[Category:RE-BB templates]]&lt;/noinclude&gt;</text>
+      <sha1>8730hzs9ad4c20vtrcnpzsnqs6hav3l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Template sandbox heading</title>
+    <ns>10</ns>
+    <id>1825567</id>
+    <revision>
+      <id>816072235</id>
+      <parentid>783071936</parentid>
+      <timestamp>2017-12-19T02:17:05Z</timestamp>
+      <contributor>
+        <username>Graham87</username>
+        <id>194203</id>
+      </contributor>
+      <comment>update name of button</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2964">&lt;noinclude&gt;
+{{ombox
+|type=protection
+|image=[[File:Sandbox Not.svg|50px|alt=|link=]]
+|text='''This page should NOT be used for testing purposes.'''&lt;br/&gt;This page acts ''only'' as a transclusion for [[Wikipedia:About the sandbox|various sandboxes]]. If you wish to experiment, please do so at [[Draft:Sandbox]] or one of the [[Wikipedia:About the sandbox#Specialized sandboxes|other sandboxes]], not here.&lt;br/&gt;This page should only be edited if the ''Sandbox Header'' needs modification. 
+}}&lt;!--
+
+--&gt;&lt;/noinclude&gt;&lt;includeonly&gt;
+{{Ombox
+|image=[[File:Sandbox.svg|50px|alt=|link=]]
+|text={{#ifeq:{{TALKPAGENAME}}|{{FULLPAGENAME}}|{{Sandbox heading/Talk}}}}
+&lt;!----------------------- Welcome, information, links -------------------------&gt;
+Welcome to {{FULLPAGENAME}}, a '''Wikipedia template sandbox'''. This page is itself a [[Help:Template|template]], and it allows you to carry out experiments related to '''template editing'''. If you wish to experiment with article editing, use the [[Draft:Sandbox|Wikipedia Sandbox]] or [{{fullurl:Special:Mypage/sandbox|action=edit&amp;preload=Template:User_Sandbox/preload}} your own user sandbox]. 
+
+To edit, click the ''edit'' tab above, make your changes and click the ''Publish changes'' button when finished. Content will ''not'' stay permanently; the template sandboxes are ''automatically cleaned'' every four hours.
+
+''Please do not place [{{fullurl:Wikipedia:Misuse_of_the_sandbox}} copyrighted, offensive, illegal or libelous content] in the sandboxes. For assistance with template coding, try [[WP:VPT|the technical forum at the Village Pump]].'' 
+
+There are several other template sandboxes you can use to carry out experiments: {{hlist |{{tl|X1}} |{{tl|X2}} |{{tl|X3}} |{{tl|X4}} |{{tl|X5}} |{{tl|X6}} |{{tl|X7}} |{{tl|X8}} |{{tl|X9}} |{{tl|X10}} |{{tl|X11}} |{{tl|X12}} |{{tl|X13}} |{{tl|X14}} |{{tl|X15}} |{{tl|X16}} |{{tl|X17}} |{{tl|X18}} |{{tl|X19}} |{{tl|X20}} |{{tlg|Template sandbox|alttext=Template&amp;nbsp;sandbox}} }}
+
+You can also conduct tests using the [[Draft:Sandbox|Wikipedia Sandbox]]. For instance, to [[Wikipedia:Transclusion|transclude]] this template there, [{{fullurl:{{transclude|Draft:Sandbox}}|action=edit}} edit it] so that it includes: &lt;code&gt;{{braces|{{BASEPAGENAME}}}}&lt;/code&gt;
+|imageright=
+&lt;!------------------------ Link box on righthand side -------------------------&gt;
+&lt;div class=&quot;toccolours&quot; style=&quot;padding:0 10px 5px;text-align:center;white-space:nowrap;&quot;&gt;
+'''[[T:TS|Template sandbox]] shortcut'''&lt;br/&gt;
+{{braces|'''[[T:TS]]'''}}
+
+'''More info''' {{hlist|class=nowrap |[[Wikipedia:About the Sandbox|About]] |[[Wikipedia:Editor's index to Wikipedia#Template|Template-related pages]]}} [[mw:Help:Extension:ParserFunctions|Parser functions help]]
+
+'''Sandbox games'''&lt;br/&gt;
+[[Wikipedia:Department of Fun/Word Association|Word Association]]
+&lt;/div&gt;
+
+}}{{#ifeq:{{PAGENAME}}|Template sandbox reset | |&lt;!--[[Category:Wikipedia editing aids]]--&gt;}}&lt;/includeonly&gt;&lt;noinclude&gt;{{Documentation}}&lt;/noinclude&gt;</text>
+      <sha1>3bv5it9xz1mg48wvkntp95sfciiqc3g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Tobu Line Symbol</title>
+    <ns>10</ns>
+    <id>53665012</id>
+    <revision>
+      <id>796349179</id>
+      <parentid>781647284</parentid>
+      <timestamp>2017-08-20T06:35:05Z</timestamp>
+      <contributor>
+        <username>Chiro08</username>
+        <id>26989423</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="692">&lt;includeonly&gt;&lt;span style=&quot;display:inline-block; position:relative; vertical-align:middle; width:{{#expr: {{{size|20}}} * 4 / 5}}px; height:{{#expr: {{{size|20}}} * 4 / 5}}px; border:solid {{#expr: {{{size|20}}} / 10}}px {{ja-rail-color|{{{name|{{{1}}}}}}}}; border-radius:26%; background:White; font-weight:Bold;&quot;&gt;&lt;span style=&quot;position:absolute; text-align:center; width:{{#expr: {{{size|20}}} * 4 / 5}}px; height: {{#expr: {{{size|20}}} * 14 / 25}}px; font-size: {{#expr: {{{size|20}}} * 14 / 25}}px; line-height: {{#expr: {{{size|20}}} * 14 / 25}}px; top:{{#expr: {{{size|20}}} * 3 / 25}}px; left:0; color:black;&quot;&gt;{{{name|{{{1}}}}}}&lt;/span&gt;&lt;/span&gt;&lt;/includeonly&gt;&lt;noinclude&gt;{{doc}}&lt;/noinclude&gt;</text>
+      <sha1>ixx8l11nanyx8fkbcexo0lmz1amid6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Warsaw Stock Exchange</title>
+    <ns>10</ns>
+    <id>35134012</id>
+    <revision>
+      <id>789257049</id>
+      <parentid>560006853</parentid>
+      <timestamp>2017-07-06T09:50:17Z</timestamp>
+      <contributor>
+        <username>Elegie</username>
+        <id>5231193</id>
+      </contributor>
+      <comment>Use HTTPS for the generated WSE link(s) in order to provide increased user privacy/security</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="207">[[Warsaw Stock Exchange|WSE]]:&amp;nbsp;{{#if:{{{isin|}}}|[https://www.gpw.pl/karta_spolki_en/{{{isin}}}/ {{{1}}}]
+|[https://www.gpw.pl/karta_spolki_en/{{{2}}}/ {{{1}}}]}}&lt;noinclude&gt;{{Documentation}}&lt;/noinclude&gt;</text>
+      <sha1>9fg1mvpx82zley7j8kspsoglufdno5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Ethnologue19</title>
+    <ns>10</ns>
+    <id>50974778</id>
+    <revision>
+      <id>817964197</id>
+      <parentid>817962851</parentid>
+      <timestamp>2017-12-31T17:09:58Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>/* top */ HTTPS</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="487">{{#if: {{{1|}}}
+|[https://www.ethnologue.com/19/language/{{{1|}}}/ {{{2|{{PAGENAME}}}}}] at ''[[Ethnologue]]'' (19th ed., 2016)
+|{{cite book|editor=Lewis, M. Paul|editor2=Gary F. Simons|editor3= Charles D. Fennig|year=2016|title=Ethnologue: Languages of the World|edition=19th|location=Dallas, Texas|publisher=SIL International|url=https://www.ethnologue.com/19/}}
+}}&lt;includeonly&gt;[[Category:Language articles citing Ethnologue 19]]&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>abiuj42bx03pdid61akhjo88m94oj0d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Iran Census 2016</title>
+    <ns>10</ns>
+    <id>54758357</id>
+    <revision>
+      <id>793925613</id>
+      <parentid>793925175</parentid>
+      <timestamp>2017-08-04T19:39:58Z</timestamp>
+      <contributor>
+        <username>Fatemi</username>
+        <id>13572928</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="353">{{cite web
+|url=https://www.amar.org.ir/Portals/0/census/1395/results/abadi/CN95_HouseholdPopulationVillage_{{{1}}}.xlsx
+|title=Census of the Islamic Republic of Iran, 1395 (2016)
+|publisher=[[Islamic Republic of Iran]]
+|format=Excel
+}}&lt;noinclude&gt;
+{{documentation}}
+&lt;!-- Categories go on the /doc subpage, and interwikis go on Wikidata. --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>giicvdjy2j6dym3uddtncffpw3famp6</sha1>
+    </revision>
+  </page>
+</mediawiki>
